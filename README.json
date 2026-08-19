@@ -17,10 +17,10 @@
                 "archived": false,
                 "id": 190416463,
                 "language": "PowerShell",
-                "last_commit": "2026-08-18T20:34:04Z",
+                "last_commit": "2026-08-19T12:04:00Z",
                 "owner": "actions",
                 "repo": "runner-images",
-                "stars": 13030
+                "stars": 13032
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-03T14:06:59Z",
                 "owner": "actions",
                 "repo": "starter-workflows",
-                "stars": 11952
+                "stars": 11953
               }
             },
             {
@@ -551,7 +551,7 @@
                 "last_commit": "2026-08-09T22:50:11Z",
                 "owner": "nektos",
                 "repo": "act",
-                "stars": 71547
+                "stars": 71550
               }
             },
             {
@@ -626,7 +626,7 @@
                 "last_commit": "2026-04-21T09:08:59Z",
                 "owner": "c-hive",
                 "repo": "gha-remove-artifacts",
-                "stars": 390
+                "stars": 391
               }
             },
             {
@@ -1125,10 +1125,10 @@
                 "archived": false,
                 "id": 206578964,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T06:51:23Z",
+                "last_commit": "2026-08-19T09:15:00Z",
                 "owner": "shivammathur",
                 "repo": "setup-php",
-                "stars": 3249
+                "stars": 3250
               }
             },
             {
@@ -1597,7 +1597,7 @@
                 "archived": false,
                 "id": 214416212,
                 "language": "PHP",
-                "last_commit": "2026-08-15T17:08:27Z",
+                "last_commit": "2026-08-19T10:11:55Z",
                 "owner": "WyriHaximus",
                 "repo": "github-action-wait-for-status",
                 "stars": 106
@@ -3916,7 +3916,7 @@
                 "archived": false,
                 "id": 205586305,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T10:22:35Z",
+                "last_commit": "2026-08-19T10:22:51Z",
                 "owner": "crazy-max",
                 "repo": "ghaction-github-pages",
                 "stars": 516
@@ -4353,7 +4353,7 @@
                 "last_commit": "2026-04-23T07:20:22Z",
                 "owner": "SamKirkland",
                 "repo": "FTP-Deploy-Action",
-                "stars": 5177
+                "stars": 5178
               }
             },
             {
@@ -4937,7 +4937,7 @@
                     "archived": false,
                     "id": 173497847,
                     "language": "Python",
-                    "last_commit": "2026-08-19T02:04:21Z",
+                    "last_commit": "2026-08-19T08:55:58Z",
                     "owner": "wemake-services",
                     "repo": "docker-image-size-limit",
                     "stars": 133
@@ -5749,8 +5749,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:06:53.351Z",
+    "last_updated": "2026-08-19T12:12:36.680Z",
     "original_repository": "sdras/awesome-actions",
+    "original_repository_id": 153500249,
     "original_repository_sha": "0edccf33480b95bf7547b90187c31e9ab2cb070d",
     "enhanced_repository": "enhansome/enhansome-actions",
     "enhanced_repository_description": null,
