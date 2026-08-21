@@ -17,10 +17,10 @@
                 "archived": false,
                 "id": 190416463,
                 "language": "PowerShell",
-                "last_commit": "2026-08-19T19:19:53Z",
+                "last_commit": "2026-08-20T18:04:38Z",
                 "owner": "actions",
                 "repo": "runner-images",
-                "stars": 13034
+                "stars": 13039
               }
             },
             {
@@ -35,7 +35,7 @@
                 "last_commit": "2026-08-17T13:17:33Z",
                 "owner": "actions",
                 "repo": "runner",
-                "stars": 6202
+                "stars": 6206
               }
             }
           ]
@@ -93,7 +93,7 @@
                     "last_commit": "2026-08-10T23:25:25Z",
                     "owner": "actions",
                     "repo": "checkout",
-                    "stars": 8651
+                    "stars": 8650
                   }
                 },
                 {
@@ -108,7 +108,7 @@
                     "last_commit": "2026-07-15T18:13:46Z",
                     "owner": "actions",
                     "repo": "cache",
-                    "stars": 5513
+                    "stars": 5515
                   }
                 },
                 {
@@ -123,7 +123,7 @@
                     "last_commit": "2026-04-09T22:46:34Z",
                     "owner": "actions",
                     "repo": "github-script",
-                    "stars": 5010
+                    "stars": 5011
                   }
                 },
                 {
@@ -138,7 +138,7 @@
                     "last_commit": "2026-04-14T14:19:32Z",
                     "owner": "actions",
                     "repo": "upload-artifact",
-                    "stars": 4165
+                    "stars": 4167
                   }
                 },
                 {
@@ -153,7 +153,7 @@
                     "last_commit": "2026-03-18T12:43:40Z",
                     "owner": "actions",
                     "repo": "download-artifact",
-                    "stars": 1884
+                    "stars": 1882
                   }
                 }
               ],
@@ -175,7 +175,7 @@
                     "last_commit": "2026-08-10T05:45:33Z",
                     "owner": "actions",
                     "repo": "labeler",
-                    "stars": 2489
+                    "stars": 2490
                   }
                 },
                 {
@@ -190,7 +190,7 @@
                     "last_commit": "2026-08-07T11:29:42Z",
                     "owner": "actions",
                     "repo": "stale",
-                    "stars": 1701
+                    "stars": 1702
                   }
                 },
                 {
@@ -272,7 +272,7 @@
                     "last_commit": "2026-08-18T14:57:18Z",
                     "owner": "actions",
                     "repo": "setup-node",
-                    "stars": 4935
+                    "stars": 4937
                   }
                 },
                 {
@@ -284,10 +284,10 @@
                     "archived": false,
                     "id": 192625525,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T14:58:15Z",
+                    "last_commit": "2026-08-20T16:47:16Z",
                     "owner": "actions",
                     "repo": "setup-python",
-                    "stars": 2204
+                    "stars": 2205
                   }
                 },
                 {
@@ -302,7 +302,7 @@
                     "last_commit": "2026-08-18T18:16:31Z",
                     "owner": "actions",
                     "repo": "setup-java",
-                    "stars": 1984
+                    "stars": 1987
                   }
                 },
                 {
@@ -317,7 +317,7 @@
                     "last_commit": "2026-08-19T15:08:33Z",
                     "owner": "actions",
                     "repo": "setup-go",
-                    "stars": 1757
+                    "stars": 1756
                   }
                 },
                 {
@@ -329,7 +329,7 @@
                     "archived": false,
                     "id": 192625306,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T05:59:28Z",
+                    "last_commit": "2026-08-20T16:35:32Z",
                     "owner": "actions",
                     "repo": "setup-dotnet",
                     "stars": 1199
@@ -421,7 +421,7 @@
                     "last_commit": "2026-08-05T18:34:11Z",
                     "owner": "actions",
                     "repo": "toolkit",
-                    "stars": 5823
+                    "stars": 5826
                   }
                 },
                 {
@@ -551,7 +551,7 @@
                 "last_commit": "2026-08-09T22:50:11Z",
                 "owner": "nektos",
                 "repo": "act",
-                "stars": 71566
+                "stars": 71584
               }
             },
             {
@@ -566,7 +566,7 @@
                 "last_commit": "2026-08-16T20:38:52Z",
                 "owner": "softprops",
                 "repo": "action-gh-release",
-                "stars": 5738
+                "stars": 5742
               }
             },
             {
@@ -608,7 +608,7 @@
                 "archived": false,
                 "id": 93275422,
                 "language": "Go",
-                "last_commit": "2026-08-11T04:12:36Z",
+                "last_commit": "2026-08-21T04:14:10Z",
                 "owner": "siderolabs",
                 "repo": "conform",
                 "stars": 525
@@ -728,7 +728,7 @@
                 "archived": false,
                 "id": 178710662,
                 "language": "Shell",
-                "last_commit": "2026-08-05T03:32:36Z",
+                "last_commit": "2026-08-21T03:32:51Z",
                 "owner": "elgohr",
                 "repo": "Github-Release-Action",
                 "stars": 217
@@ -1158,7 +1158,7 @@
                 "last_commit": "2026-07-27T18:02:43Z",
                 "owner": "hashicorp",
                 "repo": "setup-terraform",
-                "stars": 1581
+                "stars": 1582
               }
             },
             {
@@ -1345,7 +1345,7 @@
                 "last_commit": "2026-07-29T11:36:42Z",
                 "owner": "mxschmitt",
                 "repo": "action-tmate",
-                "stars": 3577
+                "stars": 3578
               }
             },
             {
@@ -1360,7 +1360,7 @@
                 "last_commit": "2026-08-05T12:20:34Z",
                 "owner": "dorny",
                 "repo": "paths-filter",
-                "stars": 3299
+                "stars": 3301
               }
             },
             {
@@ -1390,7 +1390,7 @@
                 "last_commit": "2026-07-30T19:34:46Z",
                 "owner": "xu-cheng",
                 "repo": "latex-action",
-                "stars": 1409
+                "stars": 1410
               }
             },
             {
@@ -1435,7 +1435,7 @@
                 "last_commit": "2026-03-18T16:13:26Z",
                 "owner": "maxim-lobanov",
                 "repo": "setup-xcode",
-                "stars": 394
+                "stars": 395
               }
             },
             {
@@ -2017,7 +2017,7 @@
                 "archived": false,
                 "id": 248228678,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T22:45:29Z",
+                "last_commit": "2026-08-20T22:30:45Z",
                 "owner": "fabasoad",
                 "repo": "twilio-voice-call-action",
                 "stars": 18
@@ -2420,7 +2420,7 @@
                 "archived": false,
                 "id": 157776824,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T16:48:19Z",
+                "last_commit": "2026-08-20T14:06:31Z",
                 "owner": "graphql-hive",
                 "repo": "graphql-inspector",
                 "stars": 1759
@@ -2465,7 +2465,7 @@
                 "archived": false,
                 "id": 234341789,
                 "language": "Shell",
-                "last_commit": "2026-08-20T00:55:44Z",
+                "last_commit": "2026-08-20T21:37:33Z",
                 "owner": "reviewdog",
                 "repo": "action-tfsec",
                 "stars": 76
@@ -2482,7 +2482,7 @@
                     "archived": false,
                     "id": 219649445,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-20T05:52:57Z",
+                    "last_commit": "2026-08-20T15:18:32Z",
                     "owner": "cypress-io",
                     "repo": "github-action",
                     "stars": 1461
@@ -2602,7 +2602,7 @@
                     "archived": false,
                     "id": 196056915,
                     "language": "Python",
-                    "last_commit": "2026-08-12T19:45:56Z",
+                    "last_commit": "2026-08-20T14:07:26Z",
                     "owner": "ivanklee86",
                     "repo": "xunit-slack-reporter",
                     "stars": 12
@@ -2654,10 +2654,10 @@
                     "archived": false,
                     "id": 124593057,
                     "language": "Python",
-                    "last_commit": "2026-08-20T06:46:17Z",
+                    "last_commit": "2026-08-21T02:03:27Z",
                     "owner": "wemake-services",
                     "repo": "wemake-python-styleguide",
-                    "stars": 2889
+                    "stars": 2891
                   }
                 },
                 {
@@ -2699,7 +2699,7 @@
                     "archived": false,
                     "id": 159846967,
                     "language": "Python",
-                    "last_commit": "2026-08-17T16:59:32Z",
+                    "last_commit": "2026-08-21T04:04:35Z",
                     "owner": "wemake-services",
                     "repo": "dotenv-linter",
                     "stars": 305
@@ -2729,7 +2729,7 @@
                     "archived": false,
                     "id": 208542589,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-16T05:22:56Z",
+                    "last_commit": "2026-08-20T21:23:06Z",
                     "owner": "reviewdog",
                     "repo": "action-golangci-lint",
                     "stars": 243
@@ -2882,7 +2882,7 @@
                     "last_commit": "2026-08-14T17:00:54Z",
                     "owner": "mooyoul",
                     "repo": "tslint-actions",
-                    "stars": 34
+                    "stars": 35
                   }
                 },
                 {
@@ -3141,7 +3141,7 @@
                     "archived": false,
                     "id": 212117222,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-17T14:23:31Z",
+                    "last_commit": "2026-08-20T14:22:34Z",
                     "owner": "ridedott",
                     "repo": "merge-me-action",
                     "stars": 317
@@ -3474,10 +3474,10 @@
                 "archived": false,
                 "id": 197176365,
                 "language": "TypeScript",
-                "last_commit": "2026-08-01T12:40:36Z",
+                "last_commit": "2026-08-20T23:36:36Z",
                 "owner": "peter-evans",
                 "repo": "create-pull-request",
-                "stars": 2837
+                "stars": 2838
               }
             },
             {
@@ -3916,7 +3916,7 @@
                 "archived": false,
                 "id": 205586305,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T10:22:51Z",
+                "last_commit": "2026-08-20T10:24:01Z",
                 "owner": "crazy-max",
                 "repo": "ghaction-github-pages",
                 "stars": 516
@@ -4006,7 +4006,7 @@
                 "archived": false,
                 "id": 209903968,
                 "language": "Svelte",
-                "last_commit": "2026-08-19T22:09:43Z",
+                "last_commit": "2026-08-20T22:10:58Z",
                 "owner": "cristianpb",
                 "repo": "analytics-google",
                 "stars": 16
@@ -4133,7 +4133,7 @@
                 "archived": false,
                 "id": 291329464,
                 "language": "TypeScript",
-                "last_commit": "2026-08-12T09:47:15Z",
+                "last_commit": "2026-08-20T22:46:43Z",
                 "owner": "opsless",
                 "repo": "ms-teams-github-actions",
                 "stars": 39
@@ -4527,7 +4527,7 @@
               "description": null,
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "id": 290900709,
                 "language": "JavaScript",
                 "last_commit": "2026-06-11T12:52:40Z",
@@ -5019,10 +5019,10 @@
                     "archived": false,
                     "id": 153361173,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T00:34:27Z",
+                    "last_commit": "2026-08-21T00:33:43Z",
                     "owner": "pulumi",
                     "repo": "actions",
-                    "stars": 292
+                    "stars": 293
                   }
                 },
                 {
@@ -5654,7 +5654,7 @@
                 "last_commit": "2026-08-07T01:30:44Z",
                 "owner": "fabasoad",
                 "repo": "pascal-action",
-                "stars": 10
+                "stars": 11
               }
             },
             {
@@ -5733,7 +5733,7 @@
                 "archived": false,
                 "id": 247280797,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T22:45:24Z",
+                "last_commit": "2026-08-20T22:30:42Z",
                 "owner": "fabasoad",
                 "repo": "translation-action",
                 "stars": 52
@@ -5749,7 +5749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:07:37.154Z",
+    "last_updated": "2026-08-21T07:09:04.451Z",
     "original_repository": "sdras/awesome-actions",
     "original_repository_id": 153500249,
     "original_repository_sha": "0edccf33480b95bf7547b90187c31e9ab2cb070d",
