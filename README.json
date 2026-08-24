@@ -20,7 +20,7 @@
                 "last_commit": "2026-08-21T15:51:22Z",
                 "owner": "actions",
                 "repo": "runner-images",
-                "stars": 13049
+                "stars": 13052
               }
             },
             {
@@ -32,10 +32,10 @@
                 "archived": false,
                 "id": 184286875,
                 "language": "C#",
-                "last_commit": "2026-08-17T13:17:33Z",
+                "last_commit": "2026-08-24T04:54:40Z",
                 "owner": "actions",
                 "repo": "runner",
-                "stars": 6207
+                "stars": 6212
               }
             }
           ]
@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-03T14:06:59Z",
                 "owner": "actions",
                 "repo": "starter-workflows",
-                "stars": 11963
+                "stars": 11965
               }
             },
             {
@@ -93,7 +93,7 @@
                     "last_commit": "2026-08-10T23:25:25Z",
                     "owner": "actions",
                     "repo": "checkout",
-                    "stars": 8657
+                    "stars": 8658
                   }
                 },
                 {
@@ -108,7 +108,7 @@
                     "last_commit": "2026-07-15T18:13:46Z",
                     "owner": "actions",
                     "repo": "cache",
-                    "stars": 5518
+                    "stars": 5522
                   }
                 },
                 {
@@ -138,7 +138,7 @@
                     "last_commit": "2026-04-14T14:19:32Z",
                     "owner": "actions",
                     "repo": "upload-artifact",
-                    "stars": 4167
+                    "stars": 4168
                   }
                 },
                 {
@@ -153,7 +153,7 @@
                     "last_commit": "2026-03-18T12:43:40Z",
                     "owner": "actions",
                     "repo": "download-artifact",
-                    "stars": 1884
+                    "stars": 1885
                   }
                 }
               ],
@@ -220,7 +220,7 @@
                     "last_commit": "2026-01-21T23:53:14Z",
                     "owner": "actions",
                     "repo": "first-interaction",
-                    "stars": 890
+                    "stars": 891
                   }
                 },
                 {
@@ -269,10 +269,10 @@
                     "archived": false,
                     "id": 189476904,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-18T14:57:18Z",
+                    "last_commit": "2026-08-24T07:03:54Z",
                     "owner": "actions",
                     "repo": "setup-node",
-                    "stars": 4942
+                    "stars": 4943
                   }
                 },
                 {
@@ -287,7 +287,7 @@
                     "last_commit": "2026-08-20T16:47:16Z",
                     "owner": "actions",
                     "repo": "setup-python",
-                    "stars": 2207
+                    "stars": 2208
                   }
                 },
                 {
@@ -299,10 +299,10 @@
                     "archived": false,
                     "id": 196057608,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-18T18:16:31Z",
+                    "last_commit": "2026-08-24T03:43:06Z",
                     "owner": "actions",
                     "repo": "setup-java",
-                    "stars": 1988
+                    "stars": 1990
                   }
                 },
                 {
@@ -317,7 +317,7 @@
                     "last_commit": "2026-08-19T15:08:33Z",
                     "owner": "actions",
                     "repo": "setup-go",
-                    "stars": 1758
+                    "stars": 1760
                   }
                 },
                 {
@@ -332,7 +332,7 @@
                     "last_commit": "2026-08-20T16:35:32Z",
                     "owner": "actions",
                     "repo": "setup-dotnet",
-                    "stars": 1200
+                    "stars": 1201
                   }
                 },
                 {
@@ -421,7 +421,7 @@
                     "last_commit": "2026-08-05T18:34:11Z",
                     "owner": "actions",
                     "repo": "toolkit",
-                    "stars": 5831
+                    "stars": 5833
                   }
                 },
                 {
@@ -436,7 +436,7 @@
                     "last_commit": "2026-07-20T03:32:43Z",
                     "owner": "actions",
                     "repo": "typescript-action",
-                    "stars": 2417
+                    "stars": 2416
                   }
                 },
                 {
@@ -551,7 +551,7 @@
                 "last_commit": "2026-08-09T22:50:11Z",
                 "owner": "nektos",
                 "repo": "act",
-                "stars": 71602
+                "stars": 71616
               }
             },
             {
@@ -566,7 +566,7 @@
                 "last_commit": "2026-08-16T20:38:52Z",
                 "owner": "softprops",
                 "repo": "action-gh-release",
-                "stars": 5743
+                "stars": 5742
               }
             },
             {
@@ -1173,7 +1173,7 @@
                 "last_commit": "2023-03-04T23:25:10Z",
                 "owner": "game-ci",
                 "repo": "unity-actions",
-                "stars": 1094
+                "stars": 1095
               }
             },
             {
@@ -1522,7 +1522,7 @@
                 "archived": false,
                 "id": 216229397,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T21:26:31Z",
+                "last_commit": "2026-08-23T22:15:18Z",
                 "owner": "WyriHaximus",
                 "repo": "github-action-get-previous-tag",
                 "stars": 197
@@ -1597,7 +1597,7 @@
                 "archived": false,
                 "id": 214416212,
                 "language": "PHP",
-                "last_commit": "2026-08-22T14:36:42Z",
+                "last_commit": "2026-08-24T05:20:26Z",
                 "owner": "WyriHaximus",
                 "repo": "github-action-wait-for-status",
                 "stars": 106
@@ -2363,7 +2363,7 @@
                     "archived": false,
                     "id": 216040726,
                     "language": "PHP",
-                    "last_commit": "2026-08-23T05:12:28Z",
+                    "last_commit": "2026-08-24T05:20:40Z",
                     "owner": "WyriHaximus",
                     "repo": "github-action-next-semvers",
                     "stars": 60
@@ -2482,10 +2482,10 @@
                     "archived": false,
                     "id": 219649445,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-21T12:57:04Z",
+                    "last_commit": "2026-08-24T01:06:25Z",
                     "owner": "cypress-io",
                     "repo": "github-action",
-                    "stars": 1462
+                    "stars": 1461
                   }
                 },
                 {
@@ -2699,7 +2699,7 @@
                     "archived": false,
                     "id": 159846967,
                     "language": "Python",
-                    "last_commit": "2026-08-21T04:04:35Z",
+                    "last_commit": "2026-08-24T06:10:15Z",
                     "owner": "wemake-services",
                     "repo": "dotenv-linter",
                     "stars": 305
@@ -3144,7 +3144,7 @@
                     "last_commit": "2026-08-20T14:22:34Z",
                     "owner": "ridedott",
                     "repo": "merge-me-action",
-                    "stars": 317
+                    "stars": 316
                   }
                 },
                 {
@@ -3886,10 +3886,10 @@
                 "archived": false,
                 "id": 187915200,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T16:58:16Z",
+                "last_commit": "2026-08-23T18:13:20Z",
                 "owner": "peaceiris",
                 "repo": "actions-gh-pages",
-                "stars": 5356
+                "stars": 5357
               }
             },
             {
@@ -3916,7 +3916,7 @@
                 "archived": false,
                 "id": 205586305,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T10:17:34Z",
+                "last_commit": "2026-08-23T10:18:21Z",
                 "owner": "crazy-max",
                 "repo": "ghaction-github-pages",
                 "stars": 517
@@ -4006,7 +4006,7 @@
                 "archived": false,
                 "id": 209903968,
                 "language": "Svelte",
-                "last_commit": "2026-08-22T22:01:36Z",
+                "last_commit": "2026-08-23T22:01:13Z",
                 "owner": "cristianpb",
                 "repo": "analytics-google",
                 "stars": 16
@@ -4338,7 +4338,7 @@
                 "last_commit": "2026-08-16T12:07:10Z",
                 "owner": "appleboy",
                 "repo": "ssh-action",
-                "stars": 6176
+                "stars": 6177
               }
             },
             {
@@ -4395,7 +4395,7 @@
                 "archived": false,
                 "id": 209873006,
                 "language": "TypeScript",
-                "last_commit": "2026-08-05T15:46:24Z",
+                "last_commit": "2026-08-23T16:31:26Z",
                 "owner": "goreleaser",
                 "repo": "goreleaser-action",
                 "stars": 1030
@@ -4428,7 +4428,7 @@
                 "last_commit": "2026-08-10T23:27:13Z",
                 "owner": "cycjimmy",
                 "repo": "semantic-release-action",
-                "stars": 699
+                "stars": 700
               }
             },
             {
@@ -4485,7 +4485,7 @@
                 "archived": false,
                 "id": 238209201,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T19:52:37Z",
+                "last_commit": "2026-08-23T19:53:34Z",
                 "owner": "nwtgck",
                 "repo": "actions-netlify",
                 "stars": 355
@@ -4688,6 +4688,21 @@
             },
             {
               "node_type": "item",
+              "title": "Run Ansible Playbooks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 251373134,
+                "language": "Go",
+                "last_commit": "2026-08-24T06:52:32Z",
+                "owner": "arillso",
+                "repo": "action.playbook",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Deploy iOS Pod Library to Cocoapods",
               "description": null,
               "children": [],
@@ -4698,21 +4713,6 @@
                 "last_commit": "2026-02-27T04:55:30Z",
                 "owner": "michaelhenry",
                 "repo": "deploy-to-cocoapods-github-action",
-                "stars": 37
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Run Ansible Playbooks",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 251373134,
-                "language": "Go",
-                "last_commit": "2026-08-23T04:41:54Z",
-                "owner": "arillso",
-                "repo": "action.playbook",
                 "stars": 37
               }
             },
@@ -4937,7 +4937,7 @@
                     "archived": false,
                     "id": 173497847,
                     "language": "Python",
-                    "last_commit": "2026-08-19T08:55:58Z",
+                    "last_commit": "2026-08-24T06:09:53Z",
                     "owner": "wemake-services",
                     "repo": "docker-image-size-limit",
                     "stars": 133
@@ -4952,7 +4952,7 @@
                     "archived": false,
                     "id": 240761936,
                     "language": "Shell",
-                    "last_commit": "2026-08-23T06:12:23Z",
+                    "last_commit": "2026-08-23T09:34:42Z",
                     "owner": "aevea",
                     "repo": "action-kaniko",
                     "stars": 124
@@ -5322,7 +5322,7 @@
                 "archived": false,
                 "id": 187902720,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T02:06:26Z",
+                "last_commit": "2026-08-24T02:06:14Z",
                 "owner": "peaceiris",
                 "repo": "actions-hugo",
                 "stars": 1573
@@ -5591,7 +5591,7 @@
                 "archived": false,
                 "id": 226724438,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T05:40:43Z",
+                "last_commit": "2026-08-23T19:42:37Z",
                 "owner": "lukka",
                 "repo": "run-vcpkg",
                 "stars": 234
@@ -5606,7 +5606,7 @@
                 "archived": false,
                 "id": 226724972,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T04:05:18Z",
+                "last_commit": "2026-08-24T04:05:32Z",
                 "owner": "lukka",
                 "repo": "run-cmake",
                 "stars": 195
@@ -5749,7 +5749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:02:27.836Z",
+    "last_updated": "2026-08-24T07:29:58.983Z",
     "original_repository": "sdras/awesome-actions",
     "original_repository_id": 153500249,
     "original_repository_sha": "0edccf33480b95bf7547b90187c31e9ab2cb070d",
