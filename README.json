@@ -17,10 +17,10 @@
                 "archived": false,
                 "id": 190416463,
                 "language": "PowerShell",
-                "last_commit": "2026-08-21T15:51:22Z",
+                "last_commit": "2026-08-24T13:12:42Z",
                 "owner": "actions",
                 "repo": "runner-images",
-                "stars": 13052
+                "stars": 13056
               }
             },
             {
@@ -32,7 +32,7 @@
                 "archived": false,
                 "id": 184286875,
                 "language": "C#",
-                "last_commit": "2026-08-24T04:54:40Z",
+                "last_commit": "2026-08-24T13:07:19Z",
                 "owner": "actions",
                 "repo": "runner",
                 "stars": 6212
@@ -153,7 +153,7 @@
                     "last_commit": "2026-03-18T12:43:40Z",
                     "owner": "actions",
                     "repo": "download-artifact",
-                    "stars": 1885
+                    "stars": 1886
                   }
                 }
               ],
@@ -551,7 +551,7 @@
                 "last_commit": "2026-08-09T22:50:11Z",
                 "owner": "nektos",
                 "repo": "act",
-                "stars": 71616
+                "stars": 71618
               }
             },
             {
@@ -566,7 +566,7 @@
                 "last_commit": "2026-08-16T20:38:52Z",
                 "owner": "softprops",
                 "repo": "action-gh-release",
-                "stars": 5742
+                "stars": 5745
               }
             },
             {
@@ -596,7 +596,7 @@
                 "last_commit": "2026-08-21T08:33:04Z",
                 "owner": "elgohr",
                 "repo": "Publish-Docker-Github-Action",
-                "stars": 792
+                "stars": 793
               }
             },
             {
@@ -1128,7 +1128,7 @@
                 "last_commit": "2026-08-23T06:08:36Z",
                 "owner": "shivammathur",
                 "repo": "setup-php",
-                "stars": 3253
+                "stars": 3254
               }
             },
             {
@@ -1360,7 +1360,7 @@
                 "last_commit": "2026-08-05T12:20:34Z",
                 "owner": "dorny",
                 "repo": "paths-filter",
-                "stars": 3300
+                "stars": 3301
               }
             },
             {
@@ -1597,7 +1597,7 @@
                 "archived": false,
                 "id": 214416212,
                 "language": "PHP",
-                "last_commit": "2026-08-24T05:20:26Z",
+                "last_commit": "2026-08-24T07:37:53Z",
                 "owner": "WyriHaximus",
                 "repo": "github-action-wait-for-status",
                 "stars": 106
@@ -1795,7 +1795,7 @@
                 "last_commit": "2026-06-09T00:35:20Z",
                 "owner": "boasiHQ",
                 "repo": "interactive-inputs",
-                "stars": 49
+                "stars": 50
               }
             },
             {
@@ -2363,7 +2363,7 @@
                     "archived": false,
                     "id": 216040726,
                     "language": "PHP",
-                    "last_commit": "2026-08-24T05:20:40Z",
+                    "last_commit": "2026-08-24T07:39:02Z",
                     "owner": "WyriHaximus",
                     "repo": "github-action-next-semvers",
                     "stars": 60
@@ -2669,7 +2669,7 @@
                     "archived": false,
                     "id": 229542559,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-17T08:03:25Z",
+                    "last_commit": "2026-08-24T08:03:00Z",
                     "owner": "wearerequired",
                     "repo": "lint-action",
                     "stars": 609
@@ -3271,7 +3271,7 @@
                     "last_commit": "2026-08-13T02:27:42Z",
                     "owner": "codecov",
                     "repo": "codecov-action",
-                    "stars": 1704
+                    "stars": 1705
                   }
                 },
                 {
@@ -3916,7 +3916,7 @@
                 "archived": false,
                 "id": 205586305,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T10:18:21Z",
+                "last_commit": "2026-08-24T10:32:20Z",
                 "owner": "crazy-max",
                 "repo": "ghaction-github-pages",
                 "stars": 517
@@ -4695,7 +4695,7 @@
                 "archived": false,
                 "id": 251373134,
                 "language": "Go",
-                "last_commit": "2026-08-24T06:52:32Z",
+                "last_commit": "2026-08-24T13:29:36Z",
                 "owner": "arillso",
                 "repo": "action.playbook",
                 "stars": 38
@@ -5711,6 +5711,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Setup Cassandra Schema",
+              "description": "Running scripts from the provided folder on top of Cassandra cluster.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 246519970,
+                "language": "Shell",
+                "last_commit": "2024-08-03T08:38:19Z",
+                "owner": "fabasoad",
+                "repo": "setup-cassandra-action",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Database"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Setup ZeroTier",
+              "description": "Connect your runner to a ZeroTier network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 579303083,
+                "language": "JavaScript",
+                "last_commit": "2024-02-11T22:35:06Z",
+                "owner": "zerotier",
+                "repo": "github-action",
+                "stars": 57
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Networking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Find and automatically fix typos and grammar issues in your code",
               "description": null,
               "children": [],
@@ -5743,13 +5787,35 @@
           "description": null,
           "node_type": "group",
           "title": "Localization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Add equivalent of a like button in your README",
+              "description": "Visualize community approval on some part of your readme (can be used as a poll).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 415128586,
+                "language": null,
+                "last_commit": "2026-08-17T22:14:28Z",
+                "owner": "ariary",
+                "repo": "Readme-Like-Button",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fun"
         }
       ],
       "title": "Community Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:29:58.983Z",
+    "last_updated": "2026-08-24T13:50:12.055Z",
     "original_repository": "sdras/awesome-actions",
     "original_repository_id": 153500249,
     "original_repository_sha": "0edccf33480b95bf7547b90187c31e9ab2cb070d",
