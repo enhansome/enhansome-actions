@@ -284,7 +284,7 @@
                     "archived": false,
                     "id": 192625525,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T16:47:16Z",
+                    "last_commit": "2026-08-25T05:59:26Z",
                     "owner": "actions",
                     "repo": "setup-python",
                     "stars": 2208
@@ -551,7 +551,7 @@
                 "last_commit": "2026-08-09T22:50:11Z",
                 "owner": "nektos",
                 "repo": "act",
-                "stars": 71624
+                "stars": 71626
               }
             },
             {
@@ -5777,7 +5777,7 @@
                 "archived": false,
                 "id": 247280797,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T22:30:42Z",
+                "last_commit": "2026-08-25T05:51:26Z",
                 "owner": "fabasoad",
                 "repo": "translation-action",
                 "stars": 52
@@ -5815,7 +5815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:43:13.657Z",
+    "last_updated": "2026-08-25T07:09:50.230Z",
     "original_repository": "sdras/awesome-actions",
     "original_repository_id": 153500249,
     "original_repository_sha": "0edccf33480b95bf7547b90187c31e9ab2cb070d",

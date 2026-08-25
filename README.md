@@ -43,7 +43,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 * [Official Site](https://github.com/features/actions)
 * [Official Documentation](https://help.github.com/en/actions)
 * [Official Actions organization](https://github.com/actions)
-  * [actions/virtual-environments](https://github.com/actions/virtual-environments) ⭐ 13,060 | 🐛 133 | 🌐 PowerShell | 📅 2026-08-24 - GitHub Actions virtual environments.
+  * [actions/virtual-environments](https://github.com/actions/virtual-environments) ⭐ 13,060 | 🐛 134 | 🌐 PowerShell | 📅 2026-08-24 - GitHub Actions virtual environments.
   * [actions/runner](https://github.com/actions/runner) ⭐ 6,215 | 🐛 523 | 🌐 C# | 📅 2026-08-25 - The Runner for GitHub Actions.
 * [GitHub Blog Announcement](https://github.blog/2018-10-17-action-demos/)
 
@@ -84,7 +84,7 @@ Automate management for issues, pull requests, and releases.
 Set up your GitHub Actions workflow with a specific version of your programming languages.
 
 * [actions/setup-node: Node.js](https://github.com/actions/setup-node) ⭐ 4,944 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-24
-* [actions/setup-python: Python](https://github.com/actions/setup-python) ⭐ 2,208 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-20
+* [actions/setup-python: Python](https://github.com/actions/setup-python) ⭐ 2,208 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-25
 * [actions/setup-java: Java](https://github.com/actions/setup-java) ⭐ 1,991 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-24
 * [actions/setup-go: Go](https://github.com/actions/setup-go) ⭐ 1,760 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-19
 * [actions/setup-dotnet: .NET core sdk](https://github.com/actions/setup-dotnet) ⭐ 1,201 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-24
@@ -112,7 +112,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### GitHub Tools and Management
 
-* [Run GitHub Actions Locally in Terminal](https://github.com/nektos/act) ⭐ 71,624 | 🐛 363 | 🌐 Go | 📅 2026-08-09
+* [Run GitHub Actions Locally in Terminal](https://github.com/nektos/act) ⭐ 71,626 | 🐛 363 | 🌐 Go | 📅 2026-08-09
 * [Publish GitHub Releases with Assets](https://github.com/softprops/action-gh-release) ⭐ 5,745 | 🐛 116 | 🌐 TypeScript | 📅 2026-08-16
 * [Push Git changes to GitHub repository without authentication difficulties](https://github.com/ad-m/github-push-action) ⭐ 1,277 | 🐛 10 | 🌐 Shell | 📅 2026-05-24
 * [Publish a docker image to Dockerhub](https://github.com/elgohr/Publish-Docker-Github-Action) ⭐ 793 | 🐛 1 | 🌐 Shell | 📅 2026-08-21
@@ -524,7 +524,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Build
 
 * [Publish Go Binaries to GitHub Release Assets](https://github.com/wangyoucao577/go-release-action) ⭐ 546 | 🐛 17 | 🌐 Shell | 📅 2026-01-02
-* [run-vcpkg](https://github.com/lukka/run-vcpkg) ⭐ 234 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-23 - Multi platform action to build and install C/C++ dependencies with [vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,391 | 🐛 1,177 | 🌐 CMake | 📅 2026-08-25.
+* [run-vcpkg](https://github.com/lukka/run-vcpkg) ⭐ 234 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-23 - Multi platform action to build and install C/C++ dependencies with [vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,391 | 🐛 1,179 | 🌐 CMake | 📅 2026-08-25.
 * [run-cmake](https://github.com/lukka/run-cmake) ⭐ 196 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-24 - Multi platform action to build C/C++ software with [CMake](https://cmake.org) and [Ninja](https://ninja-build.org/).
 * [Generate \~/.m2/settings.xml for Maven builds](https://github.com/whelk-io/maven-settings-xml-action) ⚠️ Archived
 * [Setup COBOL](https://github.com/fabasoad/setup-cobol-action) ⭐ 20 | 🐛 0 | 🌐 Shell | 📅 2026-07-23
@@ -544,7 +544,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Localization
 
 * [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action) ⭐ 154 | 🐛 3 | 🌐 Shell | 📅 2024-02-12
-* [Translation](https://github.com/fabasoad/translation-action) ⭐ 52 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-20 - Translate text from any language to any language.
+* [Translation](https://github.com/fabasoad/translation-action) ⭐ 52 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-25 - Translate text from any language to any language.
 
 ### Fun
 
