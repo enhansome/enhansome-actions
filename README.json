@@ -20,7 +20,7 @@
                 "last_commit": "2026-08-27T11:12:46Z",
                 "owner": "actions",
                 "repo": "runner-images",
-                "stars": 13066
+                "stars": 13065
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-03T14:06:59Z",
                 "owner": "actions",
                 "repo": "starter-workflows",
-                "stars": 11975
+                "stars": 11976
               }
             },
             {
@@ -93,7 +93,7 @@
                     "last_commit": "2026-08-10T23:25:25Z",
                     "owner": "actions",
                     "repo": "checkout",
-                    "stars": 8666
+                    "stars": 8688
                   }
                 },
                 {
@@ -108,7 +108,7 @@
                     "last_commit": "2026-07-15T18:13:46Z",
                     "owner": "actions",
                     "repo": "cache",
-                    "stars": 5520
+                    "stars": 5519
                   }
                 },
                 {
@@ -123,7 +123,7 @@
                     "last_commit": "2026-04-09T22:46:34Z",
                     "owner": "actions",
                     "repo": "github-script",
-                    "stars": 5010
+                    "stars": 5009
                   }
                 },
                 {
@@ -138,7 +138,7 @@
                     "last_commit": "2026-04-14T14:19:32Z",
                     "owner": "actions",
                     "repo": "upload-artifact",
-                    "stars": 4171
+                    "stars": 4170
                   }
                 },
                 {
@@ -153,7 +153,7 @@
                     "last_commit": "2026-03-18T12:43:40Z",
                     "owner": "actions",
                     "repo": "download-artifact",
-                    "stars": 1888
+                    "stars": 1887
                   }
                 }
               ],
@@ -172,7 +172,7 @@
                     "archived": false,
                     "id": 177139928,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-26T20:39:34Z",
+                    "last_commit": "2026-08-27T15:24:21Z",
                     "owner": "actions",
                     "repo": "labeler",
                     "stars": 2491
@@ -187,7 +187,7 @@
                     "archived": false,
                     "id": 200437066,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-26T20:37:30Z",
+                    "last_commit": "2026-08-27T16:28:24Z",
                     "owner": "actions",
                     "repo": "stale",
                     "stars": 1702
@@ -317,7 +317,7 @@
                     "last_commit": "2026-08-19T15:08:33Z",
                     "owner": "actions",
                     "repo": "setup-go",
-                    "stars": 1760
+                    "stars": 1759
                   }
                 },
                 {
@@ -421,7 +421,7 @@
                     "last_commit": "2026-08-05T18:34:11Z",
                     "owner": "actions",
                     "repo": "toolkit",
-                    "stars": 5833
+                    "stars": 5835
                   }
                 },
                 {
@@ -436,7 +436,7 @@
                     "last_commit": "2026-07-20T03:32:43Z",
                     "owner": "actions",
                     "repo": "typescript-action",
-                    "stars": 2416
+                    "stars": 2417
                   }
                 },
                 {
@@ -451,7 +451,7 @@
                     "last_commit": "2026-07-28T03:48:00Z",
                     "owner": "actions",
                     "repo": "javascript-action",
-                    "stars": 1185
+                    "stars": 1186
                   }
                 },
                 {
@@ -551,7 +551,7 @@
                 "last_commit": "2026-08-09T22:50:11Z",
                 "owner": "nektos",
                 "repo": "act",
-                "stars": 71658
+                "stars": 71665
               }
             },
             {
@@ -1128,7 +1128,7 @@
                 "last_commit": "2026-08-23T06:08:36Z",
                 "owner": "shivammathur",
                 "repo": "setup-php",
-                "stars": 3255
+                "stars": 3254
               }
             },
             {
@@ -1345,7 +1345,7 @@
                 "last_commit": "2026-07-29T11:36:42Z",
                 "owner": "mxschmitt",
                 "repo": "action-tmate",
-                "stars": 3578
+                "stars": 3579
               }
             },
             {
@@ -1360,7 +1360,7 @@
                 "last_commit": "2026-08-05T12:20:34Z",
                 "owner": "dorny",
                 "repo": "paths-filter",
-                "stars": 3302
+                "stars": 3304
               }
             },
             {
@@ -2482,7 +2482,7 @@
                     "archived": false,
                     "id": 219649445,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-27T06:42:25Z",
+                    "last_commit": "2026-08-27T13:46:56Z",
                     "owner": "cypress-io",
                     "repo": "github-action",
                     "stars": 1461
@@ -2497,7 +2497,7 @@
                     "archived": false,
                     "id": 225025427,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T05:05:41Z",
+                    "last_commit": "2026-08-27T15:36:31Z",
                     "owner": "game-ci",
                     "repo": "unity-test-runner",
                     "stars": 262
@@ -3114,7 +3114,7 @@
                     "last_commit": "2026-08-03T18:06:43Z",
                     "owner": "snyk",
                     "repo": "actions",
-                    "stars": 651
+                    "stars": 652
                   }
                 },
                 {
@@ -3141,7 +3141,7 @@
                     "archived": false,
                     "id": 212117222,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-26T14:22:43Z",
+                    "last_commit": "2026-08-27T14:22:40Z",
                     "owner": "ridedott",
                     "repo": "merge-me-action",
                     "stars": 316
@@ -4440,7 +4440,7 @@
                 "archived": false,
                 "id": 214454509,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T23:05:42Z",
+                "last_commit": "2026-08-27T14:49:24Z",
                 "owner": "TryGhost",
                 "repo": "action-deploy-theme",
                 "stars": 391
@@ -4695,7 +4695,7 @@
                 "archived": false,
                 "id": 251373134,
                 "language": "Go",
-                "last_commit": "2026-08-26T19:34:29Z",
+                "last_commit": "2026-08-27T13:49:04Z",
                 "owner": "arillso",
                 "repo": "action.playbook",
                 "stars": 38
@@ -5022,7 +5022,7 @@
                     "last_commit": "2026-08-26T05:13:37Z",
                     "owner": "pulumi",
                     "repo": "actions",
-                    "stars": 293
+                    "stars": 292
                   }
                 },
                 {
@@ -5815,7 +5815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:18:03.930Z",
+    "last_updated": "2026-08-27T17:39:10.943Z",
     "original_repository_info": {
       "archived": false,
       "id": 153500249,
