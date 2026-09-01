@@ -43,13 +43,13 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 * [Official Site](https://github.com/features/actions)
 * [Official Documentation](https://help.github.com/en/actions)
 * [Official Actions organization](https://github.com/actions)
-  * [actions/virtual-environments](https://github.com/actions/virtual-environments) ⭐ 13,079 | 🐛 119 | 🌐 PowerShell | 📅 2026-08-31 - GitHub Actions virtual environments.
-  * [actions/runner](https://github.com/actions/runner) ⭐ 6,220 | 🐛 523 | 🌐 C# | 📅 2026-08-31 - The Runner for GitHub Actions.
+  * [actions/virtual-environments](https://github.com/actions/virtual-environments) ⭐ 13,087 | 🐛 126 | 🌐 PowerShell | 📅 2026-09-01 - GitHub Actions virtual environments.
+  * [actions/runner](https://github.com/actions/runner) ⭐ 6,222 | 🐛 524 | 🌐 C# | 📅 2026-08-31 - The Runner for GitHub Actions.
 * [GitHub Blog Announcement](https://github.blog/2018-10-17-action-demos/)
 
 ### Workflow Examples
 
-* [actions/starter-workflows](https://github.com/actions/starter-workflows) ⭐ 12,006 | 🐛 505 | 🌐 TypeScript | 📅 2026-08-03 - Starter workflow management.
+* [actions/starter-workflows](https://github.com/actions/starter-workflows) ⭐ 12,007 | 🐛 507 | 🌐 TypeScript | 📅 2026-08-03 - Starter workflow management.
 * [actions/example-services](https://github.com/actions/example-services) ⚠️ Archived - Example workflows using service containers.
 
 ### Official Actions
@@ -62,17 +62,17 @@ Tool actions for your workflow.
 
 <!--lint ignore awesome-spell-check-->
 
-* [actions/checkout](https://github.com/actions/checkout) ⭐ 8,831 | 🐛 688 | 🌐 TypeScript | 📅 2026-08-10 - Setup your repository on your workflow.
-* [actions/cache](https://github.com/actions/cache) ⭐ 5,527 | 🐛 239 | 🌐 TypeScript | 📅 2026-07-15 - Cache dependencies and build outputs in GitHub Actions.
+* [actions/checkout](https://github.com/actions/checkout) ⭐ 8,833 | 🐛 688 | 🌐 TypeScript | 📅 2026-08-10 - Setup your repository on your workflow.
+* [actions/cache](https://github.com/actions/cache) ⭐ 5,529 | 🐛 239 | 🌐 TypeScript | 📅 2026-07-15 - Cache dependencies and build outputs in GitHub Actions.
 * [actions/github-script](https://github.com/actions/github-script) ⭐ 5,014 | 🐛 93 | 🌐 TypeScript | 📅 2026-04-09 - Write a script for GitHub API and the workflow contexts.
-* [actions/upload-artifact](https://github.com/actions/upload-artifact) ⭐ 4,175 | 🐛 261 | 🌐 TypeScript | 📅 2026-04-14 - Upload artifacts from your workflow.
+* [actions/upload-artifact](https://github.com/actions/upload-artifact) ⭐ 4,176 | 🐛 261 | 🌐 TypeScript | 📅 2026-04-14 - Upload artifacts from your workflow.
 * [actions/download-artifact](https://github.com/actions/download-artifact) ⭐ 1,890 | 🐛 153 | 🌐 TypeScript | 📅 2026-03-18 - Download artifacts from your build.
 
 #### Actions for GitHub Automation
 
 Automate management for issues, pull requests, and releases.
 
-* [actions/labeler](https://github.com/actions/labeler) ⭐ 2,493 | 🐛 66 | 🌐 TypeScript | 📅 2026-08-27 - An action for automatically labelling pull requests.
+* [actions/labeler](https://github.com/actions/labeler) ⭐ 2,492 | 🐛 66 | 🌐 TypeScript | 📅 2026-08-27 - An action for automatically labelling pull requests.
 * [actions/stale](https://github.com/actions/stale) ⭐ 1,705 | 🐛 93 | 🌐 TypeScript | 📅 2026-08-31 - Marks issues and pull requests that have not had recent interaction.
 * [actions/create-release](https://github.com/actions/create-release) ⚠️ Archived - An Action to create releases via the GitHub Release API.
 * [actions/first-interaction](https://github.com/actions/first-interaction) ⭐ 893 | 🐛 27 | 🌐 TypeScript | 📅 2026-01-21 - An action for filtering pull requests and issues from first-time contributors.
@@ -83,9 +83,9 @@ Automate management for issues, pull requests, and releases.
 
 Set up your GitHub Actions workflow with a specific version of your programming languages.
 
-* [actions/setup-node: Node.js](https://github.com/actions/setup-node) ⭐ 4,948 | 🐛 76 | 🌐 TypeScript | 📅 2026-08-31
-* [actions/setup-python: Python](https://github.com/actions/setup-python) ⭐ 2,213 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-25
-* [actions/setup-java: Java](https://github.com/actions/setup-java) ⭐ 1,993 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-24
+* [actions/setup-node: Node.js](https://github.com/actions/setup-node) ⭐ 4,949 | 🐛 76 | 🌐 TypeScript | 📅 2026-08-31
+* [actions/setup-python: Python](https://github.com/actions/setup-python) ⭐ 2,214 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-25
+* [actions/setup-java: Java](https://github.com/actions/setup-java) ⭐ 1,994 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-01
 * [actions/setup-go: Go](https://github.com/actions/setup-go) ⭐ 1,761 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-19
 * [actions/setup-dotnet: .NET core sdk](https://github.com/actions/setup-dotnet) ⭐ 1,204 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-24
 * [actions/setup-ruby: Ruby](https://github.com/actions/setup-ruby) ⚠️ Archived
@@ -98,8 +98,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 #### JavaScript and TypeScript Actions
 
 * [actions/toolkit](https://github.com/actions/toolkit) ⭐ 5,837 | 🐛 584 | 🌐 TypeScript | 📅 2026-08-05 - The GitHub ToolKit for developing GitHub Actions.
-* [actions/typescript-action](https://github.com/actions/typescript-action) ⭐ 2,417 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-20 - Create a TypeScript Action.
-* [actions/javascript-action](https://github.com/actions/javascript-action) ⭐ 1,187 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-28 - Create a JavaScript Action.
+* [actions/typescript-action](https://github.com/actions/typescript-action) ⭐ 2,415 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-20 - Create a TypeScript Action.
+* [actions/javascript-action](https://github.com/actions/javascript-action) ⭐ 1,188 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-28 - Create a JavaScript Action.
 * [actions/hello-world-javascript-action](https://github.com/actions/hello-world-javascript-action) ⭐ 313 | 🐛 13 | 🌐 JavaScript | 📅 2026-04-13 - A template to demonstrate how to build a JavaScript action.
 * [actions/http-client](https://github.com/actions/http-client) ⚠️ Archived - A lightweight HTTP client optimized for use with actions, TypeScript with generics and async await.
 
@@ -112,8 +112,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### GitHub Tools and Management
 
-* [Run GitHub Actions Locally in Terminal](https://github.com/nektos/act) ⭐ 71,722 | 🐛 376 | 🌐 Go | 📅 2026-08-09
-* [Publish GitHub Releases with Assets](https://github.com/softprops/action-gh-release) ⭐ 5,752 | 🐛 116 | 🌐 TypeScript | 📅 2026-08-30
+* [Run GitHub Actions Locally in Terminal](https://github.com/nektos/act) ⭐ 71,733 | 🐛 375 | 🌐 Go | 📅 2026-08-09
+* [Publish GitHub Releases with Assets](https://github.com/softprops/action-gh-release) ⭐ 5,753 | 🐛 116 | 🌐 TypeScript | 📅 2026-08-30
 * [Push Git changes to GitHub repository without authentication difficulties](https://github.com/ad-m/github-push-action) ⭐ 1,278 | 🐛 10 | 🌐 Shell | 📅 2026-05-24
 * [Publish a docker image to Dockerhub](https://github.com/elgohr/Publish-Docker-Github-Action) ⭐ 793 | 🐛 1 | 🌐 Shell | 📅 2026-08-21
 * [Enforce Policies on GitHub Repositories and Commits](https://github.com/talos-systems/conform) ⭐ 525 | 🐛 8 | 🌐 Go | 📅 2026-08-29
@@ -126,7 +126,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 * [Action to sync GitHub labels in the declarative way](https://github.com/micnncim/action-label-syncer) ⭐ 219 | 🐛 21 | 🌐 Go | 📅 2023-06-22
 * [Add releases to GitHub](https://github.com/elgohr/Github-Release-Action) ⭐ 217 | 🐛 1 | 🌐 Shell | 📅 2026-08-21
 * [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action) ⭐ 193 | 🐛 5 | 🌐 JavaScript | 📅 2022-11-25
-* [Create an issue using content from a file](https://github.com/peter-evans/create-issue-from-file) ⭐ 176 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-07
+* [Create an issue using content from a file](https://github.com/peter-evans/create-issue-from-file) ⭐ 176 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-01
 * [Use private actions in any workflow](https://github.com/InVisionApp/private-action-loader) ⭐ 171 | 🐛 16 | 🌐 TypeScript | 📅 2024-02-15
 * [Get a list of file changes with PR/Push](https://github.com/trilom/file-changes-action) ⭐ 168 | 🐛 42 | 🌐 TypeScript | 📅 2023-03-15
 * [Manage Labels on GitHub (create/rename/update/delete) as Code](https://github.com/crazy-max/ghaction-github-labeler) ⭐ 168 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-11
@@ -143,7 +143,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 * [Rollback a GitHub Release](https://github.com/author/action-rollback) ⭐ 61 | 🐛 5 | 🌐 JavaScript | 📅 2025-02-18
 * [Herald Rules for GitHub: Add Subscribers, Assignees, Labels, and More to Your PR](https://github.com/gagoar/use-herald-action) ⭐ 56 | 🐛 37 | 🌐 TypeScript | 📅 2026-07-17
 * [Auto Label Issue Based on Issue Description](https://github.com/Renato66/auto-label) ⭐ 53 | 🐛 4 | 🌐 TypeScript | 📅 2025-10-09
-* [Add Label to your Pull Requests based on the author team name](https://github.com/JulienKode/team-labeler-action) ⭐ 50 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-09
+* [Add Label to your Pull Requests based on the author team name](https://github.com/JulienKode/team-labeler-action) ⭐ 50 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-01
 * [Expose Git Commit Data As Environment Variables](https://github.com/rlespinasse/git-commit-data-action) ⭐ 42 | 🐛 0 | 🌐 Shell | 📅 2026-08-30
 * [Check GitHub Status in your Workflow](https://github.com/crazy-max/ghaction-github-status) ⭐ 40 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-11
 * [Label Your Issues Using the Issue's Contents](https://github.com/damccorm/tag-ur-it) ⭐ 37 | 🐛 7 | 🌐 TypeScript | 📅 2024-06-18
@@ -153,9 +153,9 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Collection of Actions
 
-* [GitHub Actions for PHP](https://github.com/shivammathur/setup-php) ⭐ 3,255 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-29
-* [GitHub Actions for Flutter](https://github.com/subosito/flutter-action) ⭐ 2,606 | 🐛 24 | 🌐 Shell | 📅 2026-04-30
-* [Use HashiCorp's Terraform](https://github.com/hashicorp/setup-terraform) ⭐ 1,584 | 🐛 76 | 🌐 JavaScript | 📅 2026-08-31
+* [GitHub Actions for PHP](https://github.com/shivammathur/setup-php) ⭐ 3,256 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-01
+* [GitHub Actions for Flutter](https://github.com/subosito/flutter-action) ⭐ 2,607 | 🐛 24 | 🌐 Shell | 📅 2026-04-30
+* [Use HashiCorp's Terraform](https://github.com/hashicorp/setup-terraform) ⭐ 1,584 | 🐛 75 | 🌐 JavaScript | 📅 2026-08-31
 * [GitHub Actions for Unity](https://github.com/webbertakken/unity-actions) ⭐ 1,097 | 🐛 0 | 🌐 Mathematica | 📅 2023-03-04
 * [GitHub Actions for WordPress](https://github.com/10up/actions-wordpress/) ⭐ 464 | 🐛 5 | 🌐 Shell | 📅 2025-10-09
 * [GitHub Actions for Yarn 1](https://github.com/Borales/actions-yarn) ⭐ 315 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-29
@@ -175,24 +175,24 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Utility
 
 * [Debug with SSH over tmate](https://github.com/mxschmitt/action-tmate) ⭐ 3,581 | 🐛 36 | 🌐 JavaScript | 📅 2026-07-29 - Debug the Action directly by providing a SSH connection.
-* [Paths Filter](https://github.com/dorny/paths-filter) ⭐ 3,307 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-05 - Conditionally run actions based on files modified by PR, feature branch or pushed commits.
+* [Paths Filter](https://github.com/dorny/paths-filter) ⭐ 3,308 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-05 - Conditionally run actions based on files modified by PR, feature branch or pushed commits.
 * [Setup `ssh-agent`](https://github.com/webfactory/ssh-agent) ⭐ 1,483 | 🐛 62 | 🌐 JavaScript | 📅 2026-06-18 - Run `ssh-agent` with additional SSH keys to access private repositories.
 * [GitHub Actions to compile LaTeX documents](https://github.com/xu-cheng/latex-action) ⭐ 1,410 | 🐛 1 | 🌐 Shell | 📅 2026-07-30
 * [Run your job on another architecture: arm32, aarch64 and others](https://github.com/uraimo/run-on-arch-action) ⭐ 751 | 🐛 44 | 🌐 Shell | 📅 2026-08-18
 * [GitHub Actions for Python project with poetry](https://github.com/abatilo/actions-poetry) ⭐ 463 | 🐛 8 | 📅 2025-01-10
-* [Setup Xcode](https://github.com/maxim-lobanov/setup-xcode) ⭐ 395 | 🐛 15 | 🌐 TypeScript | 📅 2026-03-18 - Switch between pre-installed versions of Xcode for macOS images.
+* [Setup Xcode](https://github.com/maxim-lobanov/setup-xcode) ⭐ 394 | 🐛 15 | 🌐 TypeScript | 📅 2026-03-18 - Switch between pre-installed versions of Xcode for macOS images.
 * [Import a GPG Key](https://github.com/crazy-max/ghaction-import-gpg) ⭐ 383 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-12
 * [Generate a table of contents](https://github.com/technote-space/toc-generator) ⭐ 247 | 🐛 7 | 🌐 TypeScript | 📅 2023-05-09
 * [Has Changed Path](https://github.com/MarceloPrado/has-changed-path) ⭐ 231 | 🐛 7 | 🌐 JavaScript | 📅 2024-06-04 - Conditionally run actions based on changed paths.
 * [Upload and Scan Files with VirusTotal](https://github.com/crazy-max/ghaction-virustotal) ⭐ 229 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-12
 * [GitHub Actions Badges for your README](https://github.com/atrox/github-actions-badge) ⭐ 209 | 🐛 6 | 🌐 Go | 📅 2024-01-29
-* [Get Latest Tag](https://github.com/WyriHaximus/github-action-get-previous-tag) ⭐ 197 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-30 - Get the previous tag from git.
+* [Get Latest Tag](https://github.com/WyriHaximus/github-action-get-previous-tag) ⭐ 197 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-31 - Get the previous tag from git.
 * [GitHub Environment Variables Action](https://github.com/FranzDiebold/github-env-vars-action) ⭐ 188 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-11 - Expose environment variables such as the branch/tag name, repository slug, and ref slug.
 * [Website to GIF](https://github.com/PabloLec/website-to-gif) ⭐ 161 | 🐛 8 | 🌐 Python | 📅 2026-02-12 - Turn any webpage into a GIF to display on your README, docs, etc.
 * [Publish GitHub release artifacts](https://github.com/skx/github-action-publish-binaries) ⚠️ Archived
 * [Public IP](https://github.com/haythem/public-ip) ⭐ 127 | 🐛 12 | 🌐 TypeScript | 📅 2024-07-10 - Queries GitHub actions runner's public IP address.
 * [Wait for commit statuses](https://github.com/WyriHaximus/github-action-wait-for-status) ⭐ 106 | 🐛 54 | 🌐 PHP | 📅 2026-08-31 - Wait until all statuses and checks are successful or any of them has failed and set its status output accordingly.
-* [Setup Kubernetes tools](https://github.com/yokawasa/action-setup-kube-tools) ⭐ 95 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-07 - Install Kubernetes tools (kubectl, kustomize, helm, kubeval, conftest, and yq) on the runner.
+* [Setup Kubernetes tools](https://github.com/yokawasa/action-setup-kube-tools) ⭐ 95 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-07 - Install Kubernetes tools (kubectl, kustomize, helm, kubeval, conftest, and yq) on the runner.
 * [Action to enforce branch naming rules](https://github.com/deepakputhraya/action-branch-name) ⭐ 87 | 🐛 7 | 🌐 JavaScript | 📅 2024-02-12
 * [Action to send LGTM reaction as image or GIF when we say lgtm](https://github.com/micnncim/action-lgtm-reaction) ⚠️ Archived
 * [Autotag](https://github.com/butlerlogic/action-autotag) ⭐ 80 | 🐛 13 | 🌐 JavaScript | 📅 2024-03-11 - Automatically generate a new tag when the manifest file (i.e. `package.json`) version changes.
@@ -258,14 +258,14 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Static Analysis
 
-* [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector) ⭐ 1,761 | 🐛 139 | 🌐 TypeScript | 📅 2026-08-20
-* [PHPStan Static code analyzer Action](https://github.com/OskarStark/phpstan-ga) ⭐ 101 | 🐛 1 | 🌐 Dockerfile | 📅 2026-08-30
+* [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector) ⭐ 1,762 | 🐛 139 | 🌐 TypeScript | 📅 2026-08-20
+* [PHPStan Static code analyzer Action](https://github.com/OskarStark/phpstan-ga) ⭐ 101 | 🐛 1 | 🌐 Dockerfile | 📅 2026-09-01
 * [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer) ⭐ 76 | 🐛 7 | 🌐 PowerShell | 📅 2022-10-01
 * [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec) ⭐ 76 | 🐛 7 | 🌐 Shell | 📅 2026-08-28
 
 #### Testing
 
-* [Run Cypress E2E tests](https://github.com/cypress-io/github-action) ⭐ 1,461 | 🐛 41 | 🌐 JavaScript | 📅 2026-08-31
+* [Run Cypress E2E tests](https://github.com/cypress-io/github-action) ⭐ 1,461 | 🐛 42 | 🌐 JavaScript | 📅 2026-09-01
 * [Run Unity tests](https://github.com/webbertakken/unity-test-runner) ⭐ 263 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-29
 * [Run Tests through Puppeteer, the Headless Chrome Node API](https://github.com/ianwalter/puppeteer) ⚠️ Archived
 * [Run Julia tests](https://github.com/julia-actions/julia-runtest) ⭐ 61 | 🐛 22 | 🌐 Julia | 📅 2026-08-01
@@ -279,13 +279,13 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### Linting
 
-* [wemake-python-styleguide - The strictest and most opinionated python linter ever, with optional reviewdog output on the PR](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,895 | 🐛 14 | 🌐 Python | 📅 2026-08-31
+* [wemake-python-styleguide - The strictest and most opinionated python linter ever, with optional reviewdog output on the PR](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,896 | 🐛 15 | 🌐 Python | 📅 2026-09-01
 * [Show and auto-fix linting errors for many programming languages](https://github.com/samuelmeuli/lint-action) ⭐ 609 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-24
 * [Lint Pull Request commits with commitlint](https://github.com/wagoid/commitlint-github-action) ⭐ 402 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-14
 * [Run dotenv-linter - Lints your .env files like a charm, with optional reviewdog output on the PR](https://github.com/wemake-services/dotenv-linter) ⭐ 305 | 🐛 9 | 🌐 Python | 📅 2026-08-31
 * [Run ESLint, with reviewdog output on the PR](https://github.com/reviewdog/action-eslint) ⭐ 260 | 🐛 10 | 🌐 JavaScript | 📅 2026-07-24
 * [Run golangci-lint, with reviewdog output on the PR](https://github.com/reviewdog/action-golangci-lint) ⭐ 243 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-28
-* [PHP Coding Standards Fixer Action](https://github.com/OskarStark/php-cs-fixer-ga) ⭐ 193 | 🐛 7 | 🌐 Dockerfile | 📅 2026-08-26
+* [PHP Coding Standards Fixer Action](https://github.com/OskarStark/php-cs-fixer-ga) ⭐ 193 | 🐛 7 | 🌐 Dockerfile | 📅 2026-08-31
 * [Run shellcheck, with reviewdog output on the PR](https://github.com/reviewdog/action-shellcheck) ⭐ 121 | 🐛 7 | 🌐 Shell | 📅 2026-08-07
 * [Lint terraform files using tflint, with reviewdog output on the PR](https://github.com/reviewdog/action-tflint) ⭐ 120 | 🐛 7 | 🌐 Shell | 📅 2026-08-08
 * [Run mispell, with reviewdog output on the PR](https://github.com/reviewdog/action-misspell) ⭐ 102 | 🐛 6 | 🌐 Shell | 📅 2026-07-21
@@ -312,9 +312,9 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### Security
 
-* [Snyk Test Action](https://github.com/snyk/actions) ⭐ 654 | 🐛 27 | 🌐 HTML | 📅 2026-08-03
+* [Snyk Test Action](https://github.com/snyk/actions) ⭐ 654 | 🐛 27 | 🌐 HTML | 📅 2026-09-01
 * [Secrets Sync Action](https://github.com/google/secrets-sync-action) ⭐ 336 | 🐛 19 | 🌐 TypeScript | 📅 2024-09-26 - Action syncs secrets across multiple repositories.
-* [Automatically approve and merge Dependabot updates](https://github.com/ridedott/dependabot-auto-merge-action) ⭐ 316 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-28
+* [Automatically approve and merge Dependabot updates](https://github.com/ridedott/dependabot-auto-merge-action) ⭐ 316 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-31
 * [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) ⭐ 64 | 🐛 7 | 🌐 JavaScript | 📅 2024-04-13 - Define AWS Secrets Manager secrets to environment values.
 * [SecretHub](https://github.com/secrethub/actions) ⚠️ Archived - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
 * [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets) ⭐ 45 | 🐛 29 | 🌐 Python | 📅 2026-02-13
@@ -364,8 +364,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 * [Prefix Title and Body of a PR Based on Text Extracted from Branch Name](https://github.com/tzkhan/pr-update-action) ⭐ 85 | 🐛 22 | 🌐 JavaScript | 📅 2024-01-29
 * [Verify That PRs Contain a Ticket Reference](https://github.com/vijaykramesh/pr-lint-action) ⭐ 77 | 🐛 7 | 🌐 JavaScript | 📅 2024-09-30
 * [ChatOps for PRs](https://github.com/machine-learning-apps/actions-chatops) ⚠️ Archived
-* [Pull Request Lint With Regex](https://github.com/MorrisonCole/pr-lint-action) ⭐ 72 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-26
-* [Add Labels to a PR based on Matched File Patterns](https://github.com/banyan/auto-label) ⭐ 66 | 🐛 14 | 🌐 TypeScript | 📅 2023-05-08
+* [Pull Request Lint With Regex](https://github.com/MorrisonCole/pr-lint-action) ⭐ 72 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-31
+* [Add Labels to a PR based on Matched File Patterns](https://github.com/banyan/auto-label) ⭐ 66 | 🐛 13 | 🌐 TypeScript | 📅 2023-05-08
 * [Ticket Check Action](https://github.com/neofinancial/ticket-check-action) ⭐ 49 | 🐛 9 | 🌐 TypeScript | 📅 2025-05-15 - Automatically add a ticket or issue number to the start of all Pull Request titles.
 * [Pull Request Landmines](https://github.com/tylermurry/github-pr-landmine) ⭐ 33 | 🐛 0 | 🌐 TypeScript | 📅 2022-04-08
 * [Merge Pal - Automatically Update and Merge PRs](https://github.com/maxkomarychev/merge-pal-action) ⭐ 31 | 🐛 16 | 🌐 JavaScript | 📅 2023-01-04
@@ -380,15 +380,15 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### GitHub Pages
 
-* [GitHub Actions for deploying to GitHub Pages with Static Site Generators](https://github.com/peaceiris/actions-gh-pages) ⭐ 5,359 | 🐛 94 | 🌐 TypeScript | 📅 2026-08-28
+* [GitHub Actions for deploying to GitHub Pages with Static Site Generators](https://github.com/peaceiris/actions-gh-pages) ⭐ 5,359 | 🐛 94 | 🌐 TypeScript | 📅 2026-08-31
 * [A Jupyter Notebook Blogging Platform Powered by GitHub Actions, Pages and Jekyll](https://github.com/fastai/fastpages) ⚠️ Archived
-* [Deploy to GitHub Pages with Advanced Settings](https://github.com/crazy-max/ghaction-github-pages) ⭐ 519 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-30
+* [Deploy to GitHub Pages with Advanced Settings](https://github.com/crazy-max/ghaction-github-pages) ⭐ 519 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-01
 * [Deploy a Zola site to GitHub Pages](https://github.com/shalzz/zola-deploy-action) ⭐ 291 | 🐛 2 | 🌐 HTML | 📅 2026-08-21
 * [Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages) ⭐ 121 | 🐛 11 | 🌐 Shell | 📅 2020-07-24
 * [Build Hugo static content site and publish it to gh-pages branch](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages) ⭐ 41 | 🐛 1 | 🌐 Shell | 📅 2019-12-13
 * [GitHub Action for Hexo](https://github.com/heowc/action-hexo) ⚠️ Archived
 * [Deploy A Static Site to GitHub Pages](https://github.com/appleboy/gh-pages-action) ⭐ 27 | 🐛 0 | 🌐 Shell | 📅 2026-08-09 - Deploy to custom directory and ignore folder/file.
-* [Deploy Google Analytics stats to GitHub Pages](https://github.com/cristianpb/analytics-google) ⭐ 16 | 🐛 2 | 🌐 Svelte | 📅 2026-08-30
+* [Deploy Google Analytics stats to GitHub Pages](https://github.com/cristianpb/analytics-google) ⭐ 16 | 🐛 2 | 🌐 Svelte | 📅 2026-09-01
 * [Google Dataset Search Metadata](https://www.github.com/openschemas/extractors/) - And other schema.org extractors to make datasets discoverable from GitHub pages.
 
 ### Notifications and Messages
@@ -400,11 +400,11 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 * [Send a Push Notification via Push by Techulus](https://github.com/techulus/push-github-action) ⭐ 75 | 🐛 2 | 🌐 JavaScript | 📅 2024-01-06
 * [Keep Your PRs in Sync With Teamwork Tasks](https://github.com/Teamwork/github-sync) ⭐ 68 | 🐛 4 | 🌐 Shell | 📅 2026-07-20
 * [Reply to Stale Bots](https://github.com/c-hive/fresh-bot) ⭐ 44 | 🐛 12 | 🌐 JavaScript | 📅 2025-12-08
-* [Send Microsoft Teams Notification](https://github.com/opsless/ms-teams-github-actions) ⭐ 39 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-30
+* [Send Microsoft Teams Notification](https://github.com/opsless/ms-teams-github-actions) ⭐ 39 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-31
 * [Send email with SendGrid](https://github.com/peter-evans/sendgrid-action) ⭐ 35 | 🐛 1 | 🌐 Dockerfile | 📅 2022-06-20
 * [New package version checker for npm](https://github.com/MeilCli/npm-update-check-action) ⚠️ Archived
 * [New package version checker for Gradle](https://github.com/MeilCli/gradle-update-check-action) ⚠️ Archived
-* [Watch for GitHub Wiki page changes and post to Slack](https://github.com/benmatselby/gollum-page-watcher-action) ⭐ 17 | 🐛 0 | 🌐 Go | 📅 2026-07-29
+* [Watch for GitHub Wiki page changes and post to Slack](https://github.com/benmatselby/gollum-page-watcher-action) ⭐ 17 | 🐛 1 | 🌐 Go | 📅 2026-09-01
 * [Send an SMS from GitHub Actions using Nexmo](https://github.com/nexmo-community/nexmo-sms-action) ⭐ 14 | 🐛 6 | 🌐 JavaScript | 📅 2026-04-25
 * [Create an Outlook Calendar Event using Microsoft Graph](https://github.com/anoopt/ms-graph-create-event) ⭐ 10 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-10
 * [New package version checker for NuGet](https://github.com/MeilCli/nuget-update-check-action) ⚠️ Archived
@@ -417,17 +417,17 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Deployment
 
-* [Executing remote ssh commands](https://github.com/appleboy/ssh-action) ⭐ 6,183 | 🐛 32 | 🌐 Shell | 📅 2026-08-16
-* [FTP Deploy Action, Deploys a GitHub project to a FTP server using GitHub actions](https://github.com/SamKirkland/FTP-Deploy-Action) ⭐ 5,192 | 🐛 149 | 🌐 TypeScript | 📅 2026-04-23
+* [Executing remote ssh commands](https://github.com/appleboy/ssh-action) ⭐ 6,186 | 🐛 32 | 🌐 Shell | 📅 2026-08-16
+* [FTP Deploy Action, Deploys a GitHub project to a FTP server using GitHub actions](https://github.com/SamKirkland/FTP-Deploy-Action) ⭐ 5,194 | 🐛 149 | 🌐 TypeScript | 📅 2026-04-23
 * [Copy files and artifacts via SSH](https://github.com/appleboy/scp-action) ⭐ 1,579 | 🐛 89 | 🌐 Shell | 📅 2026-08-09
-* [Publish a Python distribution package to PyPI](https://github.com/pypa/gh-action-pypi-publish) ⭐ 1,184 | 🐛 31 | 🌐 Python | 📅 2026-07-29
+* [Publish a Python distribution package to PyPI](https://github.com/pypa/gh-action-pypi-publish) ⭐ 1,183 | 🐛 31 | 🌐 Python | 📅 2026-07-29
 * [GitHub Action for GoReleaser, a release automation tool for Go projects](https://github.com/goreleaser/goreleaser-action) ⭐ 1,032 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-29
 * [Build and publish Electron apps](https://github.com/samuelmeuli/action-electron-builder) ⚠️ Archived
 * [Action For Semantic Release](https://github.com/cycjimmy/semantic-release-action) ⭐ 702 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-10
 * [Build and deploy a theme to Ghost CMS](https://github.com/TryGhost/action-deploy-theme) ⭐ 391 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-31
 * [Deploy to Netlify](https://github.com/netlify/actions) ⭐ 380 | 🐛 30 | 🌐 Shell | 📅 2025-12-15
 * [Serialize Workflow Runs in Continuous Deployment Pipelines](https://github.com/softprops/turnstyle) ⭐ 380 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-09
-* [Netlify Deploy GitHub Action for each commit](https://github.com/nwtgck/actions-netlify) ⭐ 355 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-30
+* [Netlify Deploy GitHub Action for each commit](https://github.com/nwtgck/actions-netlify) ⭐ 355 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-31
 * [Deploy VS Code Extension to Visual Studio Marketplace or the Open VSX Registry](https://github.com/HaaLeo/publish-vscode-extension) ⭐ 261 | 🐛 16 | 🌐 TypeScript | 📅 2026-02-14
 * [Purge Cloudflare cache after updating a website](https://github.com/jakejarvis/cloudflare-purge-action) ⚠️ Archived
 * [Deploy a YouTube Video to Anchor.fm Podcast](https://github.com/Schrodinger-Hat/youtube-to-anchorfm) ⚠️ Archived
@@ -462,7 +462,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 * [Build And Push Your Docker Images Caching Each Stage To Reduce Build Time](https://github.com/whoan/docker-build-with-cache-action) ⭐ 350 | 🐛 0 | 🌐 Shell | 📅 2026-08-15
 * [Set up Docker Buildx](https://github.com/crazy-max/ghaction-docker-buildx) ⚠️ Archived
 * [Monitor and limit your docker image size](https://github.com/wemake-services/docker-image-size-limit) ⭐ 133 | 🐛 1 | 🌐 Python | 📅 2026-08-31
-* [Build and publish docker images to any registry using Kaniko](https://github.com/outillage/kaniko-action) ⭐ 124 | 🐛 28 | 🌐 Shell | 📅 2026-08-30
+* [Build and publish docker images to any registry using Kaniko](https://github.com/outillage/kaniko-action) ⭐ 124 | 🐛 29 | 🌐 Shell | 📅 2026-08-31
 * [Publish Docker Images to the GitHub Package Registry (GPR)](https://github.com/machine-learning-apps/gpr-docker-publish) ⚠️ Archived
 * [Publish Docker Images to the Amazon Elastic Container Registry (ECR)](https://github.com/appleboy/docker-ecr-action) ⭐ 25 | 🐛 5 | 🌐 Dockerfile | 📅 2026-08-09
 * [Convert Branch or Tag Name Into Docker-Compatible Image Tag](https://github.com/ankitvgupta/ref-to-tag-action/) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2023-01-19
@@ -471,7 +471,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### Kubernetes
 
-* [Deploy to any Cloud or Kubernetes Using Pulumi](https://github.com/pulumi/actions) ⭐ 292 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-31
+* [Deploy to any Cloud or Kubernetes Using Pulumi](https://github.com/pulumi/actions) ⭐ 292 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-01
 * [Deploy to Kubernetes with kubectl](https://github.com/steebchen/kubectl) ⭐ 218 | 🐛 3 | 🌐 Shell | 📅 2022-12-08
 * [Kustomize Kubernetes Config YAMLs](https://github.com/karancode/kustomize-github-action) ⭐ 50 | 🐛 13 | 🌐 Shell | 📅 2024-06-25
 * [Get Kubeconfig File From Google Kubernetes Engine (GKE)](https://github.com/machine-learning-apps/gke-kubeconfig) ⚠️ Archived
@@ -524,8 +524,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Build
 
 * [Publish Go Binaries to GitHub Release Assets](https://github.com/wangyoucao577/go-release-action) ⭐ 546 | 🐛 17 | 🌐 Shell | 📅 2026-01-02
-* [run-vcpkg](https://github.com/lukka/run-vcpkg) ⭐ 234 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-23 - Multi platform action to build and install C/C++ dependencies with [vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,414 | 🐛 1,177 | 🌐 CMake | 📅 2026-08-31.
-* [run-cmake](https://github.com/lukka/run-cmake) ⭐ 196 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-31 - Multi platform action to build C/C++ software with [CMake](https://cmake.org) and [Ninja](https://ninja-build.org/).
+* [run-vcpkg](https://github.com/lukka/run-vcpkg) ⭐ 234 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-23 - Multi platform action to build and install C/C++ dependencies with [vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,418 | 🐛 1,179 | 🌐 CMake | 📅 2026-08-31.
+* [run-cmake](https://github.com/lukka/run-cmake) ⭐ 197 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-31 - Multi platform action to build C/C++ software with [CMake](https://cmake.org) and [Ninja](https://ninja-build.org/).
 * [Generate \~/.m2/settings.xml for Maven builds](https://github.com/whelk-io/maven-settings-xml-action) ⚠️ Archived
 * [Setup COBOL](https://github.com/fabasoad/setup-cobol-action) ⭐ 20 | 🐛 0 | 🌐 Shell | 📅 2026-07-23
 * [Run Pascal Script](https://github.com/fabasoad/pascal-action) ⭐ 11 | 🐛 0 | 🌐 Pascal | 📅 2026-08-07
@@ -573,4 +573,4 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
