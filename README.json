@@ -20,11 +20,11 @@
                 "id": 190416463,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-09-18T09:25:48Z",
-                "open_issues": 126,
+                "last_commit": "2026-09-19T11:41:47Z",
+                "open_issues": 125,
                 "owner": "actions",
                 "repo": "runner-images",
-                "stars": 13158,
+                "stars": 13166,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:32.889Z"
@@ -45,7 +45,7 @@
                 "open_issues": 540,
                 "owner": "actions",
                 "repo": "runner",
-                "stars": 6273,
+                "stars": 6275,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:32.889Z"
@@ -70,7 +70,7 @@
                 "open_issues": 509,
                 "owner": "actions",
                 "repo": "starter-workflows",
-                "stars": 12089,
+                "stars": 12093,
                 "topics": [
                   "actions"
                 ]
@@ -123,7 +123,7 @@
                     "open_issues": 698,
                     "owner": "actions",
                     "repo": "checkout",
-                    "stars": 8889,
+                    "stars": 8892,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -144,7 +144,7 @@
                     "open_issues": 240,
                     "owner": "actions",
                     "repo": "cache",
-                    "stars": 5552,
+                    "stars": 5551,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -239,7 +239,7 @@
                     "open_issues": 70,
                     "owner": "actions",
                     "repo": "labeler",
-                    "stars": 2496,
+                    "stars": 2497,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -257,7 +257,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-09-13T09:53:37Z",
-                    "open_issues": 95,
+                    "open_issues": 98,
                     "owner": "actions",
                     "repo": "stale",
                     "stars": 1709,
@@ -356,7 +356,7 @@
                     "open_issues": 61,
                     "owner": "actions",
                     "repo": "delete-package-versions",
-                    "stars": 444,
+                    "stars": 445,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -447,7 +447,7 @@
                     "open_issues": 48,
                     "owner": "actions",
                     "repo": "setup-go",
-                    "stars": 1762,
+                    "stars": 1760,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -468,7 +468,7 @@
                     "open_issues": 37,
                     "owner": "actions",
                     "repo": "setup-dotnet",
-                    "stars": 1208,
+                    "stars": 1209,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -595,7 +595,7 @@
                     "open_issues": 590,
                     "owner": "actions",
                     "repo": "toolkit",
-                    "stars": 5856,
+                    "stars": 5855,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -616,7 +616,7 @@
                     "open_issues": 22,
                     "owner": "actions",
                     "repo": "typescript-action",
-                    "stars": 2417,
+                    "stars": 2418,
                     "topics": [
                       "github-actions",
                       "template",
@@ -771,7 +771,7 @@
                 "open_issues": 381,
                 "owner": "nektos",
                 "repo": "act",
-                "stars": 72059,
+                "stars": 72065,
                 "topics": [
                   "ci",
                   "devops",
@@ -793,11 +793,11 @@
                 "id": 204253808,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T22:42:49Z",
+                "last_commit": "2026-09-19T22:43:00Z",
                 "open_issues": 117,
                 "owner": "softprops",
                 "repo": "action-gh-release",
-                "stars": 5762,
+                "stars": 5764,
                 "topics": [
                   "github-actions",
                   "github-releases"
@@ -842,7 +842,7 @@
                 "open_issues": 0,
                 "owner": "elgohr",
                 "repo": "Publish-Docker-Github-Action",
-                "stars": 794,
+                "stars": 795,
                 "topics": [
                   "actions",
                   "aws-ecr",
@@ -918,7 +918,7 @@
                 "open_issues": 16,
                 "owner": "alex-page",
                 "repo": "github-project-automation-plus",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "automation",
                   "github-actions",
@@ -945,7 +945,7 @@
                 "open_issues": 0,
                 "owner": "robvanderleek",
                 "repo": "create-issue-branch",
-                "stars": 350,
+                "stars": 351,
                 "topics": [
                   "github-action",
                   "github-app",
@@ -1031,7 +1031,7 @@
                 "open_issues": 59,
                 "owner": "mszostok",
                 "repo": "codeowners-validator",
-                "stars": 247,
+                "stars": 248,
                 "topics": [
                   "checker",
                   "codeowners",
@@ -1064,7 +1064,7 @@
                 "open_issues": 21,
                 "owner": "micnncim",
                 "repo": "action-label-syncer",
-                "stars": 220,
+                "stars": 221,
                 "topics": [
                   "actions",
                   "automation",
@@ -1093,7 +1093,7 @@
                 "open_issues": 1,
                 "owner": "elgohr",
                 "repo": "Github-Release-Action",
-                "stars": 217,
+                "stars": 218,
                 "topics": [
                   "action",
                   "github",
@@ -1120,7 +1120,7 @@
                 "open_issues": 8,
                 "owner": "lannonbr",
                 "repo": "issue-label-manager-action",
-                "stars": 193,
+                "stars": 194,
                 "topics": [
                   "github-actions"
                 ]
@@ -1143,7 +1143,7 @@
                 "open_issues": 6,
                 "owner": "peter-evans",
                 "repo": "create-issue-from-file",
-                "stars": 177,
+                "stars": 178,
                 "topics": [
                   "github-action",
                   "github-issues"
@@ -1167,7 +1167,7 @@
                 "open_issues": 16,
                 "owner": "nick-fields",
                 "repo": "private-action-loader",
-                "stars": 171,
+                "stars": 172,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:32.889Z"
@@ -1188,7 +1188,7 @@
                 "open_issues": 22,
                 "owner": "crazy-max",
                 "repo": "ghaction-github-labeler",
-                "stars": 169,
+                "stars": 170,
                 "topics": [
                   "actions",
                   "github-actions",
@@ -1213,7 +1213,7 @@
                 "open_issues": 42,
                 "owner": "trilom",
                 "repo": "file-changes-action",
-                "stars": 168,
+                "stars": 169,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:32.889Z"
@@ -1343,8 +1343,8 @@
                 "id": 254954414,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T21:46:53Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-19T16:32:55Z",
+                "open_issues": 2,
                 "owner": "cncf",
                 "repo": "prow-github-actions",
                 "stars": 122,
@@ -1763,11 +1763,11 @@
                 "id": 206578964,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T10:45:58Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-19T14:18:16Z",
+                "open_issues": 9,
                 "owner": "shivammathur",
                 "repo": "setup-php",
-                "stars": 3257,
+                "stars": 3258,
                 "topics": [
                   "code-coverage",
                   "composer",
@@ -1894,7 +1894,7 @@
                 "id": 159873398,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-13T08:55:53Z",
+                "last_commit": "2026-09-20T05:43:18Z",
                 "open_issues": 12,
                 "owner": "Borales",
                 "repo": "actions-yarn",
@@ -2160,7 +2160,7 @@
                 "open_issues": 36,
                 "owner": "dorny",
                 "repo": "paths-filter",
-                "stars": 3337,
+                "stars": 3338,
                 "topics": [
                   "change-detection",
                   "ci-cd",
@@ -2237,7 +2237,7 @@
                 "open_issues": 44,
                 "owner": "uraimo",
                 "repo": "run-on-arch-action",
-                "stars": 751,
+                "stars": 752,
                 "topics": [
                   "aarch64",
                   "actions",
@@ -2365,7 +2365,7 @@
                 "open_issues": 29,
                 "owner": "crazy-max",
                 "repo": "ghaction-virustotal",
-                "stars": 232,
+                "stars": 233,
                 "topics": [
                   "actions",
                   "github-actions",
@@ -2390,7 +2390,7 @@
                 "open_issues": 7,
                 "owner": "MarceloPrado",
                 "repo": "has-changed-path",
-                "stars": 231,
+                "stars": 232,
                 "topics": [
                   "ci",
                   "detecting-changes",
@@ -2445,7 +2445,7 @@
                 "open_issues": 9,
                 "owner": "WyriHaximus",
                 "repo": "github-action-get-previous-tag",
-                "stars": 197,
+                "stars": 198,
                 "topics": [
                   "action",
                   "git",
@@ -2473,7 +2473,7 @@
                 "open_issues": 0,
                 "owner": "FranzDiebold",
                 "repo": "github-env-vars-action",
-                "stars": 188,
+                "stars": 189,
                 "topics": [
                   "cicd",
                   "deployment",
@@ -2828,7 +2828,7 @@
                 "open_issues": 32,
                 "owner": "Naturalclar",
                 "repo": "issue-action",
-                "stars": 62,
+                "stars": 63,
                 "topics": [
                   "actions",
                   "assign",
@@ -3675,7 +3675,7 @@
                     "open_issues": 18,
                     "owner": "SpicyPizza",
                     "repo": "create-envfile",
-                    "stars": 476,
+                    "stars": 477,
                     "topics": [
                       "actions",
                       "continuous-integration",
@@ -4085,8 +4085,8 @@
                 "id": 234341789,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-19T10:09:49Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-19T12:01:38Z",
+                "open_issues": 6,
                 "owner": "reviewdog",
                 "repo": "action-tfsec",
                 "stars": 76,
@@ -4387,11 +4387,11 @@
                     "id": 124593057,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-13T14:38:58Z",
+                    "last_commit": "2026-09-19T13:43:38Z",
                     "open_issues": 14,
                     "owner": "wemake-services",
                     "repo": "wemake-python-styleguide",
-                    "stars": 2905,
+                    "stars": 2906,
                     "topics": [
                       "code-quality",
                       "flake8",
@@ -4423,7 +4423,7 @@
                     "open_issues": 19,
                     "owner": "wearerequired",
                     "repo": "lint-action",
-                    "stars": 608,
+                    "stars": 609,
                     "topics": [
                       "ci",
                       "code-style",
@@ -4473,7 +4473,7 @@
                     "id": 159846967,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T12:18:16Z",
+                    "last_commit": "2026-09-19T13:44:09Z",
                     "open_issues": 9,
                     "owner": "wemake-services",
                     "repo": "dotenv-linter",
@@ -4524,7 +4524,7 @@
                     "id": 208542589,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-19T04:01:31Z",
+                    "last_commit": "2026-09-19T11:55:46Z",
                     "open_issues": 18,
                     "owner": "reviewdog",
                     "repo": "action-golangci-lint",
@@ -4597,8 +4597,8 @@
                     "id": 211132408,
                     "language": "Shell",
                     "license": "MIT",
-                    "last_commit": "2026-09-19T10:59:53Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-09-19T17:15:41Z",
+                    "open_issues": 8,
                     "owner": "reviewdog",
                     "repo": "action-tflint",
                     "stars": 119,
@@ -5654,7 +5654,7 @@
                 "open_issues": 48,
                 "owner": "andresz1",
                 "repo": "size-limit-action",
-                "stars": 472,
+                "stars": 473,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:32.889Z"
@@ -5840,7 +5840,7 @@
                 "open_issues": 29,
                 "owner": "cirrus-actions",
                 "repo": "rebase",
-                "stars": 704,
+                "stars": 705,
                 "topics": [
                   "github-actions"
                 ]
@@ -5863,7 +5863,7 @@
                 "open_issues": 11,
                 "owner": "hmarr",
                 "repo": "auto-approve-action",
-                "stars": 479,
+                "stars": 480,
                 "topics": [
                   "actions",
                   "github-actions"
@@ -5908,7 +5908,7 @@
                 "open_issues": 47,
                 "owner": "kentaro-m",
                 "repo": "auto-assign-action",
-                "stars": 404,
+                "stars": 405,
                 "topics": [
                   "github-actions",
                   "my-portfolio",
@@ -5934,7 +5934,7 @@
                 "open_issues": 19,
                 "owner": "TimonVS",
                 "repo": "pr-labeler-action",
-                "stars": 257,
+                "stars": 258,
                 "topics": [
                   "actions",
                   "github",
@@ -5994,7 +5994,7 @@
                 "open_issues": 0,
                 "owner": "vsoch",
                 "repo": "pull-request-action",
-                "stars": 174,
+                "stars": 175,
                 "topics": [
                   "branches",
                   "github-action",
@@ -6075,7 +6075,7 @@
                 "open_issues": 9,
                 "owner": "seferov",
                 "repo": "pr-lint-action",
-                "stars": 122,
+                "stars": 123,
                 "topics": [
                   "actions",
                   "github-actions",
@@ -6481,7 +6481,7 @@
                 "open_issues": 0,
                 "owner": "fastai",
                 "repo": "fastpages",
-                "stars": 3541,
+                "stars": 3540,
                 "topics": [
                   "actions",
                   "data-science",
@@ -6513,7 +6513,7 @@
                 "id": 205586305,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T14:03:31Z",
+                "last_commit": "2026-09-19T13:39:27Z",
                 "open_issues": 16,
                 "owner": "crazy-max",
                 "repo": "ghaction-github-pages",
@@ -6667,7 +6667,7 @@
                 "id": 209903968,
                 "language": "Svelte",
                 "license": null,
-                "last_commit": "2026-09-18T23:39:19Z",
+                "last_commit": "2026-09-19T23:39:43Z",
                 "open_issues": 2,
                 "owner": "cristianpb",
                 "repo": "analytics-google",
@@ -6706,7 +6706,7 @@
                 "open_issues": 23,
                 "owner": "appleboy",
                 "repo": "telegram-action",
-                "stars": 1019,
+                "stars": 1018,
                 "topics": [
                   "github-actions",
                   "telegram",
@@ -6755,7 +6755,7 @@
                 "open_issues": 11,
                 "owner": "sarisia",
                 "repo": "actions-status-discord",
-                "stars": 278,
+                "stars": 279,
                 "topics": [
                   "discord",
                   "discord-webhook",
@@ -7235,7 +7235,7 @@
                 "open_issues": 149,
                 "owner": "SamKirkland",
                 "repo": "FTP-Deploy-Action",
-                "stars": 5215,
+                "stars": 5216,
                 "topics": [
                   "action",
                   "actions",
@@ -7406,7 +7406,7 @@
                 "id": 214454509,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T07:37:44Z",
+                "last_commit": "2026-09-19T13:37:38Z",
                 "open_issues": 2,
                 "owner": "TryGhost",
                 "repo": "action-deploy-theme",
@@ -7858,8 +7858,8 @@
                 "id": 251373134,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-19T06:27:17Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-20T10:21:41Z",
+                "open_issues": 2,
                 "owner": "arillso",
                 "repo": "action.playbook",
                 "stars": 38,
@@ -8184,7 +8184,7 @@
                     "open_issues": 8,
                     "owner": "peter-evans",
                     "repo": "dockerhub-description",
-                    "stars": 384,
+                    "stars": 385,
                     "topics": [
                       "docker",
                       "dockerhub",
@@ -8210,7 +8210,7 @@
                     "open_issues": 0,
                     "owner": "whoan",
                     "repo": "docker-build-with-cache-action",
-                    "stars": 350,
+                    "stars": 351,
                     "topics": [
                       "actions",
                       "docker",
@@ -8519,7 +8519,7 @@
                     "open_issues": 58,
                     "owner": "jakejarvis",
                     "repo": "s3-sync-action",
-                    "stars": 1078,
+                    "stars": 1079,
                     "topics": [
                       "actions",
                       "aws",
@@ -8898,7 +8898,7 @@
                 "open_issues": 23,
                 "owner": "peaceiris",
                 "repo": "actions-mdbook",
-                "stars": 329,
+                "stars": 328,
                 "topics": [
                   "actions",
                   "github-actions",
@@ -9325,7 +9325,7 @@
                 "open_issues": 25,
                 "owner": "lukka",
                 "repo": "run-vcpkg",
-                "stars": 236,
+                "stars": 237,
                 "topics": [
                   "cmake",
                   "cplusplus",
@@ -9631,8 +9631,8 @@
                 "id": 247280797,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T06:47:11Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-19T15:11:16Z",
+                "open_issues": 0,
                 "owner": "fabasoad",
                 "repo": "translation-action",
                 "stars": 52,
@@ -9698,7 +9698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:02:11.322Z",
+    "last_updated": "2026-09-20T11:27:47.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome actions to use on GitHub",
@@ -9707,10 +9707,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-09-01T20:32:39Z",
-      "open_issues": 311,
+      "open_issues": 312,
       "owner": "sdras",
       "repo": "awesome-actions",
-      "stars": 28240,
+      "stars": 28239,
       "topics": [
         "actions",
         "actions-list",
