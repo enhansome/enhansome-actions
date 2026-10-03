@@ -20,11 +20,11 @@
                 "id": 190416463,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-02T12:22:12Z",
-                "open_issues": 126,
+                "last_commit": "2026-10-02T13:42:48Z",
+                "open_issues": 127,
                 "owner": "actions",
                 "repo": "runner-images",
-                "stars": 13414,
+                "stars": 13416,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:32.889Z"
@@ -41,11 +41,11 @@
                 "id": 184286875,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-02T08:09:55Z",
-                "open_issues": 539,
+                "last_commit": "2026-10-02T13:53:49Z",
+                "open_issues": 542,
                 "owner": "actions",
                 "repo": "runner",
-                "stars": 6304,
+                "stars": 6306,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:32.889Z"
@@ -67,10 +67,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-03T14:06:59Z",
-                "open_issues": 522,
+                "open_issues": 519,
                 "owner": "actions",
                 "repo": "starter-workflows",
-                "stars": 12126,
+                "stars": 12127,
                 "topics": [
                   "actions"
                 ]
@@ -123,7 +123,7 @@
                     "open_issues": 705,
                     "owner": "actions",
                     "repo": "checkout",
-                    "stars": 8928,
+                    "stars": 8929,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -144,7 +144,7 @@
                     "open_issues": 242,
                     "owner": "actions",
                     "repo": "cache",
-                    "stars": 5567,
+                    "stars": 5569,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -165,7 +165,7 @@
                     "open_issues": 94,
                     "owner": "actions",
                     "repo": "github-script",
-                    "stars": 5033,
+                    "stars": 5032,
                     "topics": [
                       "actions",
                       "github-api",
@@ -211,7 +211,7 @@
                     "open_issues": 155,
                     "owner": "actions",
                     "repo": "download-artifact",
-                    "stars": 1905,
+                    "stars": 1904,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -371,7 +371,7 @@
                 {
                   "node_type": "item",
                   "title": "actions/setup-node: Node.js",
-                  "description": null,
+                  "description": "actions/setup-node",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -384,7 +384,7 @@
                     "open_issues": 76,
                     "owner": "actions",
                     "repo": "setup-node",
-                    "stars": 4978,
+                    "stars": 4979,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -392,7 +392,7 @@
                 {
                   "node_type": "item",
                   "title": "actions/setup-python: Python",
-                  "description": null,
+                  "description": "actions/setup-python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -405,7 +405,7 @@
                     "open_issues": 56,
                     "owner": "actions",
                     "repo": "setup-python",
-                    "stars": 2228,
+                    "stars": 2227,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -413,7 +413,7 @@
                 {
                   "node_type": "item",
                   "title": "actions/setup-java: Java",
-                  "description": null,
+                  "description": "actions/setup-java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -426,7 +426,7 @@
                     "open_issues": 0,
                     "owner": "actions",
                     "repo": "setup-java",
-                    "stars": 2016,
+                    "stars": 2015,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -434,7 +434,7 @@
                 {
                   "node_type": "item",
                   "title": "actions/setup-go: Go",
-                  "description": null,
+                  "description": "actions/setup-go",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -447,7 +447,7 @@
                     "open_issues": 48,
                     "owner": "actions",
                     "repo": "setup-go",
-                    "stars": 1762,
+                    "stars": 1761,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -455,7 +455,7 @@
                 {
                   "node_type": "item",
                   "title": "actions/setup-dotnet: .NET core sdk",
-                  "description": null,
+                  "description": "actions/setup-dotnet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -476,7 +476,7 @@
                 {
                   "node_type": "item",
                   "title": "actions/setup-ruby: Ruby",
-                  "description": null,
+                  "description": "actions/setup-ruby",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -497,7 +497,7 @@
                 {
                   "node_type": "item",
                   "title": "actions/setup-elixir: Elixir",
-                  "description": null,
+                  "description": "actions/setup-elixir",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -518,7 +518,7 @@
                 {
                   "node_type": "item",
                   "title": "actions/setup-julia: Julia",
-                  "description": null,
+                  "description": "julia-actions/setup-julia",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -547,7 +547,7 @@
                 {
                   "node_type": "item",
                   "title": "actions/setup-haskell: Haskell (GHC and Cabal)",
-                  "description": null,
+                  "description": "actions/setup-haskell",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -616,7 +616,7 @@
                     "open_issues": 22,
                     "owner": "actions",
                     "repo": "typescript-action",
-                    "stars": 2416,
+                    "stars": 2414,
                     "topics": [
                       "github-actions",
                       "template",
@@ -641,7 +641,7 @@
                     "open_issues": 16,
                     "owner": "actions",
                     "repo": "javascript-action",
-                    "stars": 1191,
+                    "stars": 1190,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -758,7 +758,7 @@
             {
               "node_type": "item",
               "title": "Run GitHub Actions Locally in Terminal",
-              "description": null,
+              "description": "nektos/act",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -771,7 +771,7 @@
                 "open_issues": 385,
                 "owner": "nektos",
                 "repo": "act",
-                "stars": 72191,
+                "stars": 72200,
                 "topics": [
                   "ci",
                   "devops",
@@ -784,7 +784,7 @@
             {
               "node_type": "item",
               "title": "Publish GitHub Releases with Assets",
-              "description": null,
+              "description": "softprops/action-gh-release",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -794,10 +794,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-30T12:14:47Z",
-                "open_issues": 119,
+                "open_issues": 118,
                 "owner": "softprops",
                 "repo": "action-gh-release",
-                "stars": 5769,
+                "stars": 5766,
                 "topics": [
                   "github-actions",
                   "github-releases"
@@ -808,7 +808,7 @@
             {
               "node_type": "item",
               "title": "Push Git changes to GitHub repository without authentication difficulties",
-              "description": null,
+              "description": "ad-m/github-push-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -829,7 +829,7 @@
             {
               "node_type": "item",
               "title": "Publish a docker image to Dockerhub",
-              "description": null,
+              "description": "elgohr/Publish-Docker-Github-Action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -859,7 +859,7 @@
             {
               "node_type": "item",
               "title": "Enforce Policies on GitHub Repositories and Commits",
-              "description": null,
+              "description": "siderolabs/conform",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -884,7 +884,7 @@
             {
               "node_type": "item",
               "title": "Remove Old Artifacts",
-              "description": null,
+              "description": "c-hive/gha-remove-artifacts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -918,7 +918,7 @@
                 "open_issues": 16,
                 "owner": "alex-page",
                 "repo": "github-project-automation-plus",
-                "stars": 353,
+                "stars": 352,
                 "topics": [
                   "automation",
                   "github-actions",
@@ -932,7 +932,7 @@
             {
               "node_type": "item",
               "title": "Create Issue Branch",
-              "description": null,
+              "description": "robvanderleek/create-issue-branch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -959,7 +959,7 @@
             {
               "node_type": "item",
               "title": "Lock Closed Issues and Pull Requests after a Period of Inactivity",
-              "description": null,
+              "description": "dessant/lock-threads",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -985,7 +985,7 @@
             {
               "node_type": "item",
               "title": "Run GitHub Actions Locally with a web interface",
-              "description": null,
+              "description": "phishy/wflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1051,7 +1051,7 @@
             {
               "node_type": "item",
               "title": "Action to sync GitHub labels in the declarative way",
-              "description": null,
+              "description": "micnncim/action-label-syncer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1064,7 +1064,7 @@
                 "open_issues": 21,
                 "owner": "micnncim",
                 "repo": "action-label-syncer",
-                "stars": 221,
+                "stars": 220,
                 "topics": [
                   "actions",
                   "automation",
@@ -1080,7 +1080,7 @@
             {
               "node_type": "item",
               "title": "Add releases to GitHub",
-              "description": null,
+              "description": "elgohr/Github-Release-Action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1093,7 +1093,7 @@
                 "open_issues": 1,
                 "owner": "elgohr",
                 "repo": "Github-Release-Action",
-                "stars": 218,
+                "stars": 217,
                 "topics": [
                   "action",
                   "github",
@@ -1107,7 +1107,7 @@
             {
               "node_type": "item",
               "title": "Declaratively setup GitHub Labels",
-              "description": null,
+              "description": "lannonbr/issue-label-manager-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1130,7 +1130,7 @@
             {
               "node_type": "item",
               "title": "Create an issue using content from a file",
-              "description": null,
+              "description": "peter-evans/create-issue-from-file",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1154,7 +1154,7 @@
             {
               "node_type": "item",
               "title": "Manage Labels on GitHub (create/rename/update/delete) as Code",
-              "description": null,
+              "description": "crazy-max/ghaction-github-labeler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1179,7 +1179,7 @@
             {
               "node_type": "item",
               "title": "Use private actions in any workflow",
-              "description": null,
+              "description": "nick-fields/private-action-loader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1200,7 +1200,7 @@
             {
               "node_type": "item",
               "title": "Get a list of file changes with PR/Push",
-              "description": null,
+              "description": "trilom/file-changes-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1221,7 +1221,7 @@
             {
               "node_type": "item",
               "title": "Generate Release Notes Based on Git References",
-              "description": null,
+              "description": "metcalfc/changelog-generator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1247,7 +1247,7 @@
             {
               "node_type": "item",
               "title": "Generate sequential build numbers for GitHub Actions",
-              "description": null,
+              "description": "einaregilsson/build-number",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1277,11 +1277,11 @@
                 "id": 254954414,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T08:27:33Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-03T03:20:53Z",
+                "open_issues": 34,
                 "owner": "cncf",
                 "repo": "prow-github-actions",
-                "stars": 127,
+                "stars": 129,
                 "topics": [
                   "chat-ops",
                   "github-actions",
@@ -1293,7 +1293,7 @@
             {
               "node_type": "item",
               "title": "Continuous Distribution of Funding to your Project Contributors and Dependencies",
-              "description": null,
+              "description": "protontypes/LibreSelery",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1334,7 +1334,7 @@
             {
               "node_type": "item",
               "title": "Generate release notes based on your events",
-              "description": null,
+              "description": "Decathlon/release-notes-generator-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1387,7 +1387,7 @@
             {
               "node_type": "item",
               "title": "Create/Update/Delete a GitHub Wiki Page Based on Any File",
-              "description": null,
+              "description": "Andrew-Chen-Wang/github-wiki-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1415,7 +1415,7 @@
             {
               "node_type": "item",
               "title": "Create a GitHub wiki page based on the provided markdown file",
-              "description": null,
+              "description": "Decathlon/wiki-page-creator-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1428,7 +1428,7 @@
                 "open_issues": 3,
                 "owner": "Decathlon",
                 "repo": "wiki-page-creator-action",
-                "stars": 109,
+                "stars": 110,
                 "topics": [
                   "github-actions",
                   "wiki"
@@ -1439,7 +1439,7 @@
             {
               "node_type": "item",
               "title": "Label your Pull Requests auto-magically (using committed files)",
-              "description": null,
+              "description": "Decathlon/pull-request-labeler-action",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1466,7 +1466,7 @@
             {
               "node_type": "item",
               "title": "Build and Publish Android debug APK",
-              "description": null,
+              "description": "ShaunLWM/action-release-debugapk",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1493,7 +1493,7 @@
             {
               "node_type": "item",
               "title": "Rollback a GitHub Release",
-              "description": null,
+              "description": "author/action-rollback",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1514,7 +1514,7 @@
             {
               "node_type": "item",
               "title": "Herald Rules for GitHub: Add Subscribers, Assignees, Labels, and More to Your PR",
-              "description": null,
+              "description": "gagoar/use-herald-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1542,7 +1542,7 @@
             {
               "node_type": "item",
               "title": "Auto Label Issue Based on Issue Description",
-              "description": null,
+              "description": "Renato66/auto-label",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1568,7 +1568,7 @@
             {
               "node_type": "item",
               "title": "Add Label to your Pull Requests based on the author team name",
-              "description": null,
+              "description": "JulienKode/team-labeler-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1599,7 +1599,7 @@
             {
               "node_type": "item",
               "title": "Expose Git Commit Data As Environment Variables",
-              "description": null,
+              "description": "rlespinasse/git-commit-data-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1625,7 +1625,7 @@
             {
               "node_type": "item",
               "title": "Check GitHub Status in your Workflow",
-              "description": null,
+              "description": "crazy-max/ghaction-github-status",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1652,7 +1652,7 @@
             {
               "node_type": "item",
               "title": "Label Your Issues Using the Issue's Contents",
-              "description": null,
+              "description": "damccorm/tag-ur-it",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1673,7 +1673,7 @@
             {
               "node_type": "item",
               "title": "Update Configured GitHub Actions to the Latest Versions",
-              "description": null,
+              "description": "fabasoad/ghacu",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1698,7 +1698,7 @@
             {
               "node_type": "item",
               "title": "Sync Defined Files/Binaries to Wiki or External Repositories",
-              "description": null,
+              "description": "kai-tub/external-repo-sync-action",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1726,7 +1726,7 @@
             {
               "node_type": "item",
               "title": "Get Commit Difference Count Between Two Branches",
-              "description": null,
+              "description": "jessicalostinspace/commit-difference-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1754,7 +1754,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for PHP",
-              "description": null,
+              "description": "shivammathur/setup-php",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1767,7 +1767,7 @@
                 "open_issues": 11,
                 "owner": "shivammathur",
                 "repo": "setup-php",
-                "stars": 3265,
+                "stars": 3264,
                 "topics": [
                   "code-coverage",
                   "composer",
@@ -1784,7 +1784,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for Flutter",
-              "description": null,
+              "description": "subosito/flutter-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1810,7 +1810,7 @@
             {
               "node_type": "item",
               "title": "Use HashiCorp's Terraform",
-              "description": null,
+              "description": "hashicorp/setup-terraform",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1823,7 +1823,7 @@
                 "open_issues": 75,
                 "owner": "hashicorp",
                 "repo": "setup-terraform",
-                "stars": 1592,
+                "stars": 1591,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:32.889Z"
@@ -1831,7 +1831,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for Unity",
-              "description": null,
+              "description": "game-ci/unity-actions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1864,7 +1864,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for WordPress",
-              "description": null,
+              "description": "10up/actions-wordpress",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1885,7 +1885,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for Yarn 1",
-              "description": null,
+              "description": "Borales/actions-yarn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1894,7 +1894,7 @@
                 "id": 159873398,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T00:58:10Z",
+                "last_commit": "2026-10-03T01:15:24Z",
                 "open_issues": 13,
                 "owner": "Borales",
                 "repo": "actions-yarn",
@@ -1909,7 +1909,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for Android",
-              "description": null,
+              "description": "Malinskiy/action-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1945,7 +1945,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for Deno",
-              "description": null,
+              "description": "denolib/setup-deno",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1966,7 +1966,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for Docker",
-              "description": null,
+              "description": "docker-archive/github-actions",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1987,7 +1987,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for Golang",
-              "description": null,
+              "description": "cedrickring/golang-action",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2014,7 +2014,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for AWS",
-              "description": null,
+              "description": "clowdhaus/aws-github-actions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2043,7 +2043,7 @@
             {
               "node_type": "item",
               "title": "Octions - GitHub Actions for GitHub REST API",
-              "description": null,
+              "description": "maxkomarychev/octions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2064,7 +2064,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for Composer",
-              "description": null,
+              "description": "MilesChou/composer-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2090,7 +2090,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for Yarn 2",
-              "description": null,
+              "description": "sergioramos/yarn-actions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2157,7 +2157,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-27T22:03:36Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "dorny",
                 "repo": "paths-filter",
                 "stars": 3349,
@@ -2200,7 +2200,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions to compile LaTeX documents",
-              "description": null,
+              "description": "xu-cheng/latex-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2213,7 +2213,7 @@
                 "open_issues": 1,
                 "owner": "xu-cheng",
                 "repo": "latex-action",
-                "stars": 1416,
+                "stars": 1415,
                 "topics": [
                   "github-actions",
                   "latex"
@@ -2224,7 +2224,7 @@
             {
               "node_type": "item",
               "title": "Run your job on another architecture: arm32, aarch64 and others",
-              "description": null,
+              "description": "uraimo/run-on-arch-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2237,7 +2237,7 @@
                 "open_issues": 43,
                 "owner": "uraimo",
                 "repo": "run-on-arch-action",
-                "stars": 753,
+                "stars": 752,
                 "topics": [
                   "aarch64",
                   "actions",
@@ -2257,7 +2257,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for Python project with poetry",
-              "description": null,
+              "description": "abatilo/actions-poetry",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2299,7 +2299,7 @@
             {
               "node_type": "item",
               "title": "Import a GPG Key",
-              "description": null,
+              "description": "crazy-max/ghaction-import-gpg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2328,7 +2328,7 @@
             {
               "node_type": "item",
               "title": "Generate a table of contents",
-              "description": null,
+              "description": "technote-space/toc-generator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2341,7 +2341,7 @@
                 "open_issues": 7,
                 "owner": "technote-space",
                 "repo": "toc-generator",
-                "stars": 246,
+                "stars": 247,
                 "topics": [
                   "github-actions",
                   "toc"
@@ -2352,7 +2352,7 @@
             {
               "node_type": "item",
               "title": "Upload and Scan Files with VirusTotal",
-              "description": null,
+              "description": "crazy-max/ghaction-virustotal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2404,7 +2404,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions Badges for your README",
-              "description": null,
+              "description": "Atrox/github-actions-badge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2531,7 +2531,7 @@
             {
               "node_type": "item",
               "title": "Publish GitHub release artifacts",
-              "description": null,
+              "description": "skx/github-action-publish-binaries",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2645,7 +2645,7 @@
             {
               "node_type": "item",
               "title": "Action to enforce branch naming rules",
-              "description": null,
+              "description": "deepakputhraya/action-branch-name",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2673,7 +2673,7 @@
             {
               "node_type": "item",
               "title": "Action to send LGTM reaction as image or GIF when we say lgtm",
-              "description": null,
+              "description": "micnncim/action-lgtm-reaction",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2787,7 +2787,7 @@
             {
               "node_type": "item",
               "title": "Golang CGO cross compiler",
-              "description": null,
+              "description": "crazy-max/ghaction-xgo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2815,7 +2815,7 @@
             {
               "node_type": "item",
               "title": "Automatically add Label or Assignee to an Issue",
-              "description": null,
+              "description": "Naturalclar/issue-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2842,7 +2842,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for Lazarus/FPC",
-              "description": null,
+              "description": "gcarreno/setup-lazarus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2876,7 +2876,7 @@
             {
               "node_type": "item",
               "title": "Unlock git-crypt files",
-              "description": null,
+              "description": "sliteteam/github-action-git-crypt-unlock",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3021,7 +3021,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for Python project with pyenv",
-              "description": null,
+              "description": "gabrielfalcao/pyenv-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3245,7 +3245,7 @@
             {
               "node_type": "item",
               "title": "Generate build numbers across multiple scopes",
-              "description": null,
+              "description": "zyborg/gh-action-buildnum",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3266,7 +3266,7 @@
             {
               "node_type": "item",
               "title": "awesome-lint as a GitHub Action",
-              "description": null,
+              "description": "max/awesome-lint",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3289,7 +3289,7 @@
             {
               "node_type": "item",
               "title": "Build Slate documentation",
-              "description": null,
+              "description": "Decathlon/slate-builder-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3483,7 +3483,7 @@
             {
               "node_type": "item",
               "title": "Edit JSON File",
-              "description": null,
+              "description": "deefdragon/json-edit-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3581,7 +3581,7 @@
             {
               "node_type": "item",
               "title": "Update Maxmind Databases",
-              "description": null,
+              "description": "meetuparchive/maxmind-updater",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3662,7 +3662,7 @@
                 {
                   "node_type": "item",
                   "title": "Create an envfile",
-                  "description": null,
+                  "description": "SpicyPizza/create-envfile",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3688,7 +3688,7 @@
                 {
                   "node_type": "item",
                   "title": "Programmatically set environment variables for use in subsequent steps",
-                  "description": null,
+                  "description": "allenevans/set-env",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3709,7 +3709,7 @@
                 {
                   "node_type": "item",
                   "title": "Create a JSON Environment File",
-                  "description": null,
+                  "description": "schdck/create-env-json",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3730,7 +3730,7 @@
                 {
                   "node_type": "item",
                   "title": "Export global environment variables for succeeding build steps",
-                  "description": null,
+                  "description": "zweitag/github-actions",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3751,7 +3751,7 @@
                 {
                   "node_type": "item",
                   "title": "Setup NativeScript",
-                  "description": null,
+                  "description": "hrueger/setup-nativescript",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3772,7 +3772,7 @@
                 {
                   "node_type": "item",
                   "title": "Install Conda environments for Python",
-                  "description": null,
+                  "description": "goanpeca/setup-miniconda",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3800,7 +3800,7 @@
                 {
                   "node_type": "item",
                   "title": "Install NPM Dependencies with Caching",
-                  "description": null,
+                  "description": "bahmutov/npm-install",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3825,7 +3825,7 @@
                 {
                   "node_type": "item",
                   "title": "Cache Yarn Dependencies",
-                  "description": null,
+                  "description": "c-hive/gha-yarn-cache",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3867,7 +3867,7 @@
                 {
                   "node_type": "item",
                   "title": "Cache NPM Dependencies",
-                  "description": null,
+                  "description": "c-hive/gha-npm-cache",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3925,7 +3925,7 @@
                     "id": 216040726,
                     "language": "PHP",
                     "license": "MIT",
-                    "last_commit": "2026-09-25T11:15:38Z",
+                    "last_commit": "2026-10-02T21:17:52Z",
                     "open_issues": 26,
                     "owner": "WyriHaximus",
                     "repo": "github-action-next-semvers",
@@ -3964,7 +3964,7 @@
                 {
                   "node_type": "item",
                   "title": "Get latest SemVer and branch name given a search string",
-                  "description": null,
+                  "description": "jessicalostinspace/github-action-get-regex-branch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3997,7 +3997,7 @@
             {
               "node_type": "item",
               "title": "GraphQL Inspector Action",
-              "description": null,
+              "description": "graphql-hive/graphql-inspector",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4010,7 +4010,7 @@
                 "open_issues": 133,
                 "owner": "graphql-hive",
                 "repo": "graphql-inspector",
-                "stars": 1767,
+                "stars": 1768,
                 "topics": [
                   "api",
                   "graphql",
@@ -4026,7 +4026,7 @@
             {
               "node_type": "item",
               "title": "PHPStan Static code analyzer Action",
-              "description": null,
+              "description": "OskarStark/phpstan-ga",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4051,7 +4051,7 @@
             {
               "node_type": "item",
               "title": "PowerShell static analysis with PSScriptAnalyzer",
-              "description": null,
+              "description": "devblackops/github-action-psscriptanalyzer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4076,7 +4076,7 @@
             {
               "node_type": "item",
               "title": "Run tfsec, with reviewdog output on the PR",
-              "description": null,
+              "description": "reviewdog/action-tfsec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4103,7 +4103,7 @@
                 {
                   "node_type": "item",
                   "title": "Run Cypress E2E tests",
-                  "description": null,
+                  "description": "cypress-io/github-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4129,7 +4129,7 @@
                 {
                   "node_type": "item",
                   "title": "Run Unity tests",
-                  "description": null,
+                  "description": "game-ci/unity-test-runner",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4142,7 +4142,7 @@
                     "open_issues": 23,
                     "owner": "game-ci",
                     "repo": "unity-test-runner",
-                    "stars": 266,
+                    "stars": 267,
                     "topics": [
                       "actions",
                       "activate",
@@ -4162,7 +4162,7 @@
                 {
                   "node_type": "item",
                   "title": "Run Tests through Puppeteer, the Headless Chrome Node API",
-                  "description": null,
+                  "description": "ianwalter/puppeteer-container",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4188,7 +4188,7 @@
                 {
                   "node_type": "item",
                   "title": "Run Julia tests",
-                  "description": null,
+                  "description": "julia-actions/julia-runtest",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4211,7 +4211,7 @@
                 {
                   "node_type": "item",
                   "title": "Test Ansible roles with Molecule",
-                  "description": null,
+                  "description": "robertdebock/molecule-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4232,7 +4232,7 @@
                 {
                   "node_type": "item",
                   "title": "Run TestCafe tests",
-                  "description": null,
+                  "description": "DevExpress/testcafe-action",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4253,7 +4253,7 @@
                 {
                   "node_type": "item",
                   "title": "Run codeception tests",
-                  "description": null,
+                  "description": "joelwmale/codeception-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4274,7 +4274,7 @@
                 {
                   "node_type": "item",
                   "title": "Display Inline Code Annotations for Jest Tests",
-                  "description": null,
+                  "description": "IgnusG/jest-report-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4299,7 +4299,7 @@
                 {
                   "node_type": "item",
                   "title": "xUnit Slack Reporter: Sends summary of tests from xUnit reports to a Slack channel",
-                  "description": null,
+                  "description": "ivanklee86/xunit-slack-reporter",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4323,7 +4323,7 @@
                 {
                   "node_type": "item",
                   "title": "Run performance testing with artillery.io",
-                  "description": null,
+                  "description": "kenju/github-actions-artillery",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4346,7 +4346,7 @@
                 {
                   "node_type": "item",
                   "title": "Detect Flaky Tests with BuildPulse",
-                  "description": null,
+                  "description": "BuildPulseLLC/buildpulse-action",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4378,7 +4378,7 @@
                 {
                   "node_type": "item",
                   "title": "wemake-python-styleguide - The strictest and most opinionated python linter ever, with optional reviewdog output on the PR",
-                  "description": null,
+                  "description": "wemake-services/wemake-python-styleguide",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4388,7 +4388,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-02T12:12:30Z",
-                    "open_issues": 17,
+                    "open_issues": 18,
                     "owner": "wemake-services",
                     "repo": "wemake-python-styleguide",
                     "stars": 2918,
@@ -4410,7 +4410,7 @@
                 {
                   "node_type": "item",
                   "title": "Show and auto-fix linting errors for many programming languages",
-                  "description": null,
+                  "description": "wearerequired/lint-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4440,7 +4440,7 @@
                 {
                   "node_type": "item",
                   "title": "Lint Pull Request commits with commitlint",
-                  "description": null,
+                  "description": "wagoid/commitlint-github-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4464,7 +4464,7 @@
                 {
                   "node_type": "item",
                   "title": "Run dotenv-linter - Lints your .env files like a charm, with optional reviewdog output on the PR",
-                  "description": null,
+                  "description": "wemake-services/dotenv-linter",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4477,7 +4477,7 @@
                     "open_issues": 9,
                     "owner": "wemake-services",
                     "repo": "dotenv-linter",
-                    "stars": 306,
+                    "stars": 307,
                     "topics": [
                       "code-quality",
                       "dotenv",
@@ -4491,7 +4491,7 @@
                 {
                   "node_type": "item",
                   "title": "Run ESLint, with reviewdog output on the PR",
-                  "description": null,
+                  "description": "reviewdog/action-eslint",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4515,7 +4515,7 @@
                 {
                   "node_type": "item",
                   "title": "Run golangci-lint, with reviewdog output on the PR",
-                  "description": null,
+                  "description": "reviewdog/action-golangci-lint",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4524,7 +4524,7 @@
                     "id": 208542589,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T09:17:51Z",
+                    "last_commit": "2026-10-02T20:35:17Z",
                     "open_issues": 16,
                     "owner": "reviewdog",
                     "repo": "action-golangci-lint",
@@ -4539,7 +4539,7 @@
                 {
                   "node_type": "item",
                   "title": "PHP Coding Standards Fixer Action",
-                  "description": null,
+                  "description": "OskarStark/php-cs-fixer-ga",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4564,7 +4564,7 @@
                 {
                   "node_type": "item",
                   "title": "Run shellcheck, with reviewdog output on the PR",
-                  "description": null,
+                  "description": "reviewdog/action-shellcheck",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4588,7 +4588,7 @@
                 {
                   "node_type": "item",
                   "title": "Lint terraform files using tflint, with reviewdog output on the PR",
-                  "description": null,
+                  "description": "reviewdog/action-tflint",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4612,7 +4612,7 @@
                 {
                   "node_type": "item",
                   "title": "Run mispell, with reviewdog output on the PR",
-                  "description": null,
+                  "description": "reviewdog/action-misspell",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4636,7 +4636,7 @@
                 {
                   "node_type": "item",
                   "title": "autopep8: Automatically formats Python code to conform to the PEP 8 style guide",
-                  "description": null,
+                  "description": "peter-evans/autopep8",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4663,7 +4663,7 @@
                 {
                   "node_type": "item",
                   "title": "Linter for markdown (with presets)",
-                  "description": null,
+                  "description": "avto-dev/markdown-lint",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4688,7 +4688,7 @@
                 {
                   "node_type": "item",
                   "title": "PHP_CodeSniffer With Annotations",
-                  "description": null,
+                  "description": "chekalsky/phpcs-action",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4715,7 +4715,7 @@
                 {
                   "node_type": "item",
                   "title": "Run stylelint, with reviewdog output on the PR",
-                  "description": null,
+                  "description": "reviewdog/action-stylelint",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4739,7 +4739,7 @@
                 {
                   "node_type": "item",
                   "title": "Node.js - Automatically run the and/or script used by the package",
-                  "description": null,
+                  "description": "MarvinJWendt/run-node-formatter",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4771,7 +4771,7 @@
                 {
                   "node_type": "item",
                   "title": "Run TSLint with status checks and file diff annotations",
-                  "description": null,
+                  "description": "mooyoul/tslint-actions",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4792,7 +4792,7 @@
                 {
                   "node_type": "item",
                   "title": "Validate Fastlane Supply Metadata Against the Play Store Guidelines",
-                  "description": null,
+                  "description": "ashutoshgngwr/validate-fastlane-supply-metadata",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4819,7 +4819,7 @@
                 {
                   "node_type": "item",
                   "title": "Run to ensure your PHP project has a normalized",
-                  "description": null,
+                  "description": "ergebnis/composer-normalize-action",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4844,7 +4844,7 @@
                 {
                   "node_type": "item",
                   "title": "Run sqlcheck on the PR to identifies anti-patterns in SQL queries",
-                  "description": null,
+                  "description": "yokawasa/action-sqlcheck",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4871,7 +4871,7 @@
                 {
                   "node_type": "item",
                   "title": "Run dotenv-linter, with reviewdog output on the PR",
-                  "description": null,
+                  "description": "dotenv-linter/action-dotenv-linter",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4897,7 +4897,7 @@
                 {
                   "node_type": "item",
                   "title": "Stylelinter - GitHub Action that runs stylelint",
-                  "description": null,
+                  "description": "actions-hub/stylelint",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4924,7 +4924,7 @@
                 {
                   "node_type": "item",
                   "title": "Stylelint problem matcher to create annotations",
-                  "description": null,
+                  "description": "xt0rted/stylelint-problem-matcher",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4952,7 +4952,7 @@
                 {
                   "node_type": "item",
                   "title": "JavaScript-based linter for *.workflow files",
-                  "description": null,
+                  "description": "OmarTawfik/github-actions-js",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4981,7 +4981,7 @@
                 {
                   "node_type": "item",
                   "title": "Catch insensitive, inconsiderate writing in your markdown docs",
-                  "description": null,
+                  "description": "theashraf/alex-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5007,7 +5007,7 @@
                 {
                   "node_type": "item",
                   "title": "Runs Hadolint against a Dockerfile within a repository",
-                  "description": null,
+                  "description": "burdzwastaken/hadolint-action",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -5028,7 +5028,7 @@
                 {
                   "node_type": "item",
                   "title": "Run Go lint checks on PR event",
-                  "description": null,
+                  "description": "ArangoGutierrez/GoLinty-Action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5055,7 +5055,7 @@
                 {
                   "node_type": "item",
                   "title": "Run vint, with reviewdog output on the PR",
-                  "description": null,
+                  "description": "reviewdog/action-vint",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5079,7 +5079,7 @@
                 {
                   "node_type": "item",
                   "title": "PyCodeStyle Action - A GitHub Action that leaves a comment on your PR with pycodestyle (autopep8) feedback",
-                  "description": null,
+                  "description": "ankitvgupta/pycodestyle-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5100,7 +5100,7 @@
                 {
                   "node_type": "item",
                   "title": "Run Golint to lint your Golang code",
-                  "description": null,
+                  "description": "Jerome1337/golint-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5121,7 +5121,7 @@
                 {
                   "node_type": "item",
                   "title": "Run to ensure your package has only the required artifacts",
-                  "description": null,
+                  "description": "raphaelstolt/lean-package-validator-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5155,7 +5155,7 @@
                 {
                   "node_type": "item",
                   "title": "Snyk Test Action",
-                  "description": null,
+                  "description": "snyk/actions",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5204,7 +5204,7 @@
                 {
                   "node_type": "item",
                   "title": "Automatically approve and merge Dependabot updates",
-                  "description": null,
+                  "description": "ridedott/merge-me-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5213,7 +5213,7 @@
                     "id": 212117222,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T14:23:03Z",
+                    "last_commit": "2026-10-02T14:23:14Z",
                     "open_issues": 48,
                     "owner": "ridedott",
                     "repo": "merge-me-action",
@@ -5282,7 +5282,7 @@
                 {
                   "node_type": "item",
                   "title": "Manage Your GitHub Actions Secrets With A Simple CLI",
-                  "description": null,
+                  "description": "unfor19/githubsecrets",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5311,7 +5311,7 @@
                 {
                   "node_type": "item",
                   "title": "Linting your AWS IAM policy documents for correctness and security issues",
-                  "description": null,
+                  "description": "xen0l/iam-lint",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5357,7 +5357,7 @@
                 {
                   "node_type": "item",
                   "title": "A vulnerability scanner for your docker images",
-                  "description": null,
+                  "description": "phonito/phonito-scanner-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5378,7 +5378,7 @@
                 {
                   "node_type": "item",
                   "title": "Run dlint security linter on your Python code",
-                  "description": null,
+                  "description": "xen0l/dlint-check",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5415,7 +5415,7 @@
                 {
                   "node_type": "item",
                   "title": "Send your code coverage to codecov.io",
-                  "description": null,
+                  "description": "codecov/codecov-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5441,7 +5441,7 @@
                 {
                   "node_type": "item",
                   "title": "Scan code with SonarCloud",
-                  "description": null,
+                  "description": "SonarSource/sonarcloud-github-action",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -5465,7 +5465,7 @@
                 {
                   "node_type": "item",
                   "title": "Publishing code coverage to CodeClimate",
-                  "description": null,
+                  "description": "paambaati/codeclimate-action",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -5493,7 +5493,7 @@
                 {
                   "node_type": "item",
                   "title": "Update repository go report card",
-                  "description": null,
+                  "description": "creekorful/goreportcard-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5533,7 +5533,7 @@
             {
               "node_type": "item",
               "title": "Run Gofmt to check Golang code formatting",
-              "description": null,
+              "description": "Jerome1337/gofmt-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5554,7 +5554,7 @@
             {
               "node_type": "item",
               "title": "Run Goimports to check Golang imports order",
-              "description": null,
+              "description": "Jerome1337/goimports-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5582,7 +5582,7 @@
             {
               "node_type": "item",
               "title": "Run Lighthouse in CI using GitHub Actions",
-              "description": null,
+              "description": "treosh/lighthouse-ci-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5608,7 +5608,7 @@
             {
               "node_type": "item",
               "title": "Runs Lighthouse and posts results to PRs and Slack",
-              "description": null,
+              "description": "foo-software/lighthouse-check-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5621,7 +5621,7 @@
                 "open_issues": 5,
                 "owner": "foo-software",
                 "repo": "lighthouse-check-action",
-                "stars": 513,
+                "stars": 512,
                 "topics": [
                   "accessibility",
                   "actions",
@@ -5662,7 +5662,7 @@
             {
               "node_type": "item",
               "title": "Audit a webpage with Google Chrome's Lighthouse tests",
-              "description": null,
+              "description": "jakejarvis/lighthouse-action",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5692,7 +5692,7 @@
             {
               "node_type": "item",
               "title": "Continuous Benchmarking and Benchmark Visualization for Go",
-              "description": null,
+              "description": "bobheadxi/gobenchdata",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5750,7 +5750,7 @@
             {
               "node_type": "item",
               "title": "Create a PR for Changes to your Repository in the Actions Workspace",
-              "description": null,
+              "description": "peter-evans/create-pull-request",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5760,7 +5760,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-01T12:48:22Z",
-                "open_issues": 25,
+                "open_issues": 24,
                 "owner": "peter-evans",
                 "repo": "create-pull-request",
                 "stars": 2854,
@@ -5779,7 +5779,7 @@
             {
               "node_type": "item",
               "title": "Automatically merge PRs That Are Ready",
-              "description": null,
+              "description": "pascalgn/automerge-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5804,7 +5804,7 @@
             {
               "node_type": "item",
               "title": "Automatically Bump and Tag on Merge",
-              "description": null,
+              "description": "anothrNick/github-tag-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5827,7 +5827,7 @@
             {
               "node_type": "item",
               "title": "Automatically Rebase a PR",
-              "description": null,
+              "description": "cirrus-actions/rebase",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5850,7 +5850,7 @@
             {
               "node_type": "item",
               "title": "Auto-Approve PRs",
-              "description": null,
+              "description": "hmarr/auto-approve-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5895,7 +5895,7 @@
             {
               "node_type": "item",
               "title": "Automatically add Reviewers to PR based on the Configuration File",
-              "description": null,
+              "description": "kentaro-m/auto-assign-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5921,7 +5921,7 @@
             {
               "node_type": "item",
               "title": "Add Labels to a PR based on Branch Name Patterns",
-              "description": null,
+              "description": "TimonVS/pr-labeler-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5946,7 +5946,7 @@
             {
               "node_type": "item",
               "title": "Annotate a GitHub Pull Request Based on a Checkstyle XML-Report",
-              "description": null,
+              "description": "staabm/annotate-pull-request-from-checkstyle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5981,7 +5981,7 @@
             {
               "node_type": "item",
               "title": "Open or Update PR on Branch Push (with Branch Selection)",
-              "description": null,
+              "description": "vsoch/pull-request-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6008,7 +6008,7 @@
             {
               "node_type": "item",
               "title": "Automatically Update PRs with Outdated Checks and Squash and Merge the Ones Matching All Branch Protections",
-              "description": null,
+              "description": "tibdex/autosquash",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6034,7 +6034,7 @@
             {
               "node_type": "item",
               "title": "Enforce naming convention on pull request title",
-              "description": null,
+              "description": "deepakputhraya/action-pr-title",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6062,7 +6062,7 @@
             {
               "node_type": "item",
               "title": "Lint a PR",
-              "description": null,
+              "description": "seferov/pr-lint-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6087,7 +6087,7 @@
             {
               "node_type": "item",
               "title": "Add Labels to a PR based on Total Size of the Diff",
-              "description": null,
+              "description": "pascalgn/size-label-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6113,7 +6113,7 @@
             {
               "node_type": "item",
               "title": "Lint pull request name with commitlint (Awesome if you squash merge !)",
-              "description": null,
+              "description": "JulienKode/pull-request-name-linter-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6148,7 +6148,7 @@
             {
               "node_type": "item",
               "title": "Prefix Title and Body of a PR Based on Text Extracted from Branch Name",
-              "description": null,
+              "description": "tzkhan/pr-update-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6169,7 +6169,7 @@
             {
               "node_type": "item",
               "title": "Verify That PRs Contain a Ticket Reference",
-              "description": null,
+              "description": "vijaykramesh/pr-lint-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6190,7 +6190,7 @@
             {
               "node_type": "item",
               "title": "ChatOps for PRs",
-              "description": null,
+              "description": "machine-learning-apps/actions-chatops",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6211,7 +6211,7 @@
             {
               "node_type": "item",
               "title": "Pull Request Lint With Regex",
-              "description": null,
+              "description": "MorrisonCole/pr-lint-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6220,7 +6220,7 @@
                 "id": 224069848,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T00:27:25Z",
+                "last_commit": "2026-10-02T22:32:20Z",
                 "open_issues": 28,
                 "owner": "MorrisonCole",
                 "repo": "pr-lint-action",
@@ -6239,7 +6239,7 @@
             {
               "node_type": "item",
               "title": "Add Labels to a PR based on Matched File Patterns",
-              "description": null,
+              "description": "banyan/auto-label",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6289,7 +6289,7 @@
             {
               "node_type": "item",
               "title": "Pull Request Landmines",
-              "description": null,
+              "description": "tylermurry/github-pr-landmine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6310,7 +6310,7 @@
             {
               "node_type": "item",
               "title": "Merge Pal - Automatically Update and Merge PRs",
-              "description": null,
+              "description": "maxkomarychev/merge-pal-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6337,7 +6337,7 @@
             {
               "node_type": "item",
               "title": "Get generated static site screenshots updated by Pull Request",
-              "description": null,
+              "description": "ssowonny/diff-pages-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6358,7 +6358,7 @@
             {
               "node_type": "item",
               "title": "Block Autosquash Commits",
-              "description": null,
+              "description": "xt0rted/block-autosquash-commits-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6384,7 +6384,7 @@
             {
               "node_type": "item",
               "title": "Block PR merges when Checks for target branches are failing",
-              "description": null,
+              "description": "cirrus-actions/branch-guard",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6407,7 +6407,7 @@
             {
               "node_type": "item",
               "title": "Add Labels Depending if the Pull Request Still in Progress",
-              "description": null,
+              "description": "AlbertHernandez/working-label-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6435,7 +6435,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for deploying to GitHub Pages with Static Site Generators",
-              "description": null,
+              "description": "peaceiris/actions-gh-pages",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6448,7 +6448,7 @@
                 "open_issues": 95,
                 "owner": "peaceiris",
                 "repo": "actions-gh-pages",
-                "stars": 5366,
+                "stars": 5365,
                 "topics": [
                   "actions",
                   "gatsby",
@@ -6468,7 +6468,7 @@
             {
               "node_type": "item",
               "title": "A Jupyter Notebook Blogging Platform Powered by GitHub Actions, Pages and Jekyll",
-              "description": null,
+              "description": "fastai/fastpages",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6504,7 +6504,7 @@
             {
               "node_type": "item",
               "title": "Deploy to GitHub Pages with Advanced Settings",
-              "description": null,
+              "description": "crazy-max/ghaction-github-pages",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6513,7 +6513,7 @@
                 "id": 205586305,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T16:50:46Z",
+                "last_commit": "2026-10-02T16:03:32Z",
                 "open_issues": 16,
                 "owner": "crazy-max",
                 "repo": "ghaction-github-pages",
@@ -6530,7 +6530,7 @@
             {
               "node_type": "item",
               "title": "Deploy a Zola site to GitHub Pages",
-              "description": null,
+              "description": "shalzz/zola-deploy-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6556,7 +6556,7 @@
             {
               "node_type": "item",
               "title": "Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch",
-              "description": null,
+              "description": "BryanSchuetz/jekyll-deploy-gh-pages",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6582,7 +6582,7 @@
             {
               "node_type": "item",
               "title": "Build Hugo static content site and publish it to gh-pages branch",
-              "description": null,
+              "description": "khanhicetea/gh-actions-hugo-deploy-gh-pages",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6608,7 +6608,7 @@
             {
               "node_type": "item",
               "title": "GitHub Action for Hexo",
-              "description": null,
+              "description": "heowc/action-hexo",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6658,7 +6658,7 @@
             {
               "node_type": "item",
               "title": "Deploy Google Analytics stats to GitHub Pages",
-              "description": null,
+              "description": "cristianpb/analytics-google",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6667,7 +6667,7 @@
                 "id": 209903968,
                 "language": "Svelte",
                 "license": null,
-                "last_commit": "2026-10-02T01:06:28Z",
+                "last_commit": "2026-10-03T00:45:50Z",
                 "open_issues": 2,
                 "owner": "cristianpb",
                 "repo": "analytics-google",
@@ -6693,7 +6693,7 @@
             {
               "node_type": "item",
               "title": "Send a Telegram Message",
-              "description": null,
+              "description": "appleboy/telegram-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6718,7 +6718,7 @@
             {
               "node_type": "item",
               "title": "Send a Discord notification",
-              "description": null,
+              "description": "Ilshidur/action-discord",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6731,7 +6731,7 @@
                 "open_issues": 35,
                 "owner": "Ilshidur",
                 "repo": "action-discord",
-                "stars": 463,
+                "stars": 462,
                 "topics": [
                   "github-action",
                   "github-actions"
@@ -6742,7 +6742,7 @@
             {
               "node_type": "item",
               "title": "Send an Embed Message to Discord",
-              "description": null,
+              "description": "sarisia/actions-status-discord",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6768,7 +6768,7 @@
             {
               "node_type": "item",
               "title": "Send a File or Text Message to Discord (custom define color, username or avatar)",
-              "description": null,
+              "description": "appleboy/discord-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6781,7 +6781,7 @@
                 "open_issues": 2,
                 "owner": "appleboy",
                 "repo": "discord-action",
-                "stars": 136,
+                "stars": 135,
                 "topics": [
                   "discord",
                   "discord-bot",
@@ -6793,7 +6793,7 @@
             {
               "node_type": "item",
               "title": "Send a Push Notification via Push by Techulus",
-              "description": null,
+              "description": "techulus/push-github-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6814,7 +6814,7 @@
             {
               "node_type": "item",
               "title": "Keep Your PRs in Sync With Teamwork Tasks",
-              "description": null,
+              "description": "Teamwork/github-sync",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6838,7 +6838,7 @@
             {
               "node_type": "item",
               "title": "Reply to Stale Bots",
-              "description": null,
+              "description": "c-hive/fresh-bot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6859,7 +6859,7 @@
             {
               "node_type": "item",
               "title": "Send Microsoft Teams Notification",
-              "description": null,
+              "description": "opsless/ms-teams-github-actions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6868,7 +6868,7 @@
                 "id": 291329464,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T02:34:47Z",
+                "last_commit": "2026-10-02T20:31:19Z",
                 "open_issues": 11,
                 "owner": "opsless",
                 "repo": "ms-teams-github-actions",
@@ -6885,7 +6885,7 @@
             {
               "node_type": "item",
               "title": "Send email with SendGrid",
-              "description": null,
+              "description": "peter-evans/sendgrid-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6911,7 +6911,7 @@
             {
               "node_type": "item",
               "title": "New package version checker for npm",
-              "description": null,
+              "description": "MeilCli/npm-update-check-action",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6937,7 +6937,7 @@
             {
               "node_type": "item",
               "title": "New package version checker for Gradle",
-              "description": null,
+              "description": "MeilCli/gradle-update-check-action",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6963,7 +6963,7 @@
             {
               "node_type": "item",
               "title": "Watch for GitHub Wiki page changes and post to Slack",
-              "description": null,
+              "description": "benmatselby/gollum-page-watcher-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6988,7 +6988,7 @@
             {
               "node_type": "item",
               "title": "Send an SMS from GitHub Actions using Nexmo",
-              "description": null,
+              "description": "nexmo-community/nexmo-sms-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7013,7 +7013,7 @@
             {
               "node_type": "item",
               "title": "Create an Outlook Calendar Event using Microsoft Graph",
-              "description": null,
+              "description": "anoopt/ms-graph-create-event",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7039,7 +7039,7 @@
             {
               "node_type": "item",
               "title": "New package version checker for NuGet",
-              "description": null,
+              "description": "MeilCli/nuget-update-check-action",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7065,7 +7065,7 @@
             {
               "node_type": "item",
               "title": "Send a Push Notification via Pushbullet",
-              "description": null,
+              "description": "ShaunLWM/action-pushbullet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7090,7 +7090,7 @@
             {
               "node_type": "item",
               "title": "Collaborate on tweets using pull requests",
-              "description": null,
+              "description": "gr2m/twitter-together",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7111,7 +7111,7 @@
             {
               "node_type": "item",
               "title": "Send a Push Notification via Join",
-              "description": null,
+              "description": "ShaunLWM/action-join",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7136,7 +7136,7 @@
             {
               "node_type": "item",
               "title": "Send an SMS using MessageBird",
-              "description": null,
+              "description": "nikitasavinov/messagebird-sms-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7161,7 +7161,7 @@
             {
               "node_type": "item",
               "title": "Send an SMS from GitHub Actions using Clockworksms",
-              "description": null,
+              "description": "bharathvaj-ganesan/clockwork-sms-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7197,7 +7197,7 @@
             {
               "node_type": "item",
               "title": "Executing remote ssh commands",
-              "description": null,
+              "description": "appleboy/ssh-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7210,7 +7210,7 @@
                 "open_issues": 32,
                 "owner": "appleboy",
                 "repo": "ssh-action",
-                "stars": 6218,
+                "stars": 6217,
                 "topics": [
                   "github-actions",
                   "ssh",
@@ -7222,7 +7222,7 @@
             {
               "node_type": "item",
               "title": "FTP Deploy Action, Deploys a GitHub project to a FTP server using GitHub actions",
-              "description": null,
+              "description": "SamKirkland/FTP-Deploy-Action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7251,7 +7251,7 @@
             {
               "node_type": "item",
               "title": "Copy files and artifacts via SSH",
-              "description": null,
+              "description": "appleboy/scp-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7276,7 +7276,7 @@
             {
               "node_type": "item",
               "title": "Publish a Python distribution package to PyPI",
-              "description": null,
+              "description": "pypa/gh-action-pypi-publish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7285,17 +7285,16 @@
                 "id": 178055147,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-07-29T17:03:45Z",
-                "open_issues": 33,
+                "last_commit": "2026-10-02T21:18:55Z",
+                "open_issues": 30,
                 "owner": "pypa",
                 "repo": "gh-action-pypi-publish",
-                "stars": 1185,
+                "stars": 1184,
                 "topics": [
                   "actions",
                   "github-action",
                   "github-actions",
                   "github-actions-python",
-                  "hacktoberfest",
                   "oidc",
                   "pypa-guide",
                   "pypi",
@@ -7318,7 +7317,7 @@
             {
               "node_type": "item",
               "title": "GitHub Action for GoReleaser, a release automation tool for Go projects",
-              "description": null,
+              "description": "goreleaser/goreleaser-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7327,8 +7326,8 @@
                 "id": 209873006,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T16:52:46Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-02T13:59:17Z",
+                "open_issues": 8,
                 "owner": "goreleaser",
                 "repo": "goreleaser-action",
                 "stars": 1034,
@@ -7345,7 +7344,7 @@
             {
               "node_type": "item",
               "title": "Build and publish Electron apps",
-              "description": null,
+              "description": "samuelmeuli/action-electron-builder",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7372,7 +7371,7 @@
             {
               "node_type": "item",
               "title": "Action For Semantic Release",
-              "description": null,
+              "description": "cycjimmy/semantic-release-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7381,7 +7380,7 @@
                 "id": 215775505,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-13T20:06:56Z",
+                "last_commit": "2026-10-02T17:02:57Z",
                 "open_issues": 47,
                 "owner": "cycjimmy",
                 "repo": "semantic-release-action",
@@ -7397,7 +7396,7 @@
             {
               "node_type": "item",
               "title": "Build and deploy a theme to Ghost CMS",
-              "description": null,
+              "description": "TryGhost/action-deploy-theme",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7423,7 +7422,7 @@
             {
               "node_type": "item",
               "title": "Serialize Workflow Runs in Continuous Deployment Pipelines",
-              "description": null,
+              "description": "softprops/turnstyle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7432,8 +7431,8 @@
                 "id": 239345170,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T20:53:20Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-03T03:43:34Z",
+                "open_issues": 1,
                 "owner": "softprops",
                 "repo": "turnstyle",
                 "stars": 385,
@@ -7446,7 +7445,7 @@
             {
               "node_type": "item",
               "title": "Deploy to Netlify",
-              "description": null,
+              "description": "netlify/actions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7467,7 +7466,7 @@
             {
               "node_type": "item",
               "title": "Netlify Deploy GitHub Action for each commit",
-              "description": null,
+              "description": "nwtgck/actions-netlify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7494,7 +7493,7 @@
             {
               "node_type": "item",
               "title": "Deploy VS Code Extension to Visual Studio Marketplace or the Open VSX Registry",
-              "description": null,
+              "description": "HaaLeo/publish-vscode-extension",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7524,7 +7523,7 @@
             {
               "node_type": "item",
               "title": "Purge Cloudflare cache after updating a website",
-              "description": null,
+              "description": "jakejarvis/cloudflare-purge-action",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7551,7 +7550,7 @@
             {
               "node_type": "item",
               "title": "Deploy a YouTube Video to Anchor.fm Podcast",
-              "description": null,
+              "description": "Schroedinger-Hat/youtube-to-spotify",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7587,7 +7586,7 @@
             {
               "node_type": "item",
               "title": "Deploy a Collection to Ansible Galaxy",
-              "description": null,
+              "description": "artis3n/ansible_galaxy_collection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7596,11 +7595,11 @@
                 "id": 216904863,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T02:57:08Z",
+                "last_commit": "2026-10-03T01:59:16Z",
                 "open_issues": 10,
                 "owner": "artis3n",
                 "repo": "ansible_galaxy_collection",
-                "stars": 139,
+                "stars": 140,
                 "topics": [
                   "ansible",
                   "ansible-collections",
@@ -7612,7 +7611,7 @@
             {
               "node_type": "item",
               "title": "Deploy a Theme to Shopify",
-              "description": null,
+              "description": "pgrimaud/action-shopify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7641,7 +7640,7 @@
             {
               "node_type": "item",
               "title": "Deploy a playlist to Spotify",
-              "description": null,
+              "description": "swinton/SpotHub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7669,7 +7668,7 @@
             {
               "node_type": "item",
               "title": "Publish a Maven package",
-              "description": null,
+              "description": "samuelmeuli/action-maven-publish",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7697,7 +7696,7 @@
             {
               "node_type": "item",
               "title": "Deploy your DNS configuration using DNS Control",
-              "description": null,
+              "description": "koenrh/dnscontrol-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7721,7 +7720,7 @@
             {
               "node_type": "item",
               "title": "Trigger multiple Jenkins Jobs",
-              "description": null,
+              "description": "appleboy/jenkins-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7745,7 +7744,7 @@
             {
               "node_type": "item",
               "title": "Deploy VS Code extensions with vsce",
-              "description": null,
+              "description": "lannonbr/vsce-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7769,7 +7768,7 @@
             {
               "node_type": "item",
               "title": "Deploy a static site to Surge.sh",
-              "description": null,
+              "description": "yavisht/deploy-via-surge.sh-github-action-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7799,7 +7798,7 @@
             {
               "node_type": "item",
               "title": "Cross platform Chocolatey CLI to build and publish packages",
-              "description": null,
+              "description": "crazy-max/ghaction-chocolatey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7824,7 +7823,7 @@
             {
               "node_type": "item",
               "title": "Trigger multiple GitLab CI Pipeline",
-              "description": null,
+              "description": "appleboy/gitlab-ci-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7849,7 +7848,7 @@
             {
               "node_type": "item",
               "title": "Run Ansible Playbooks",
-              "description": null,
+              "description": "arillso/action.playbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7884,7 +7883,7 @@
             {
               "node_type": "item",
               "title": "Deploy iOS Pod Library to Cocoapods",
-              "description": null,
+              "description": "michaelhenry/deploy-to-cocoapods-github-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7912,7 +7911,7 @@
             {
               "node_type": "item",
               "title": "Deploy an Ansible role to Ansible Galaxy",
-              "description": null,
+              "description": "robertdebock/galaxy-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7933,7 +7932,7 @@
             {
               "node_type": "item",
               "title": "Publish a Python Distribution Package to Anaconda Cloud",
-              "description": null,
+              "description": "fcakyon/conda-publish-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7966,7 +7965,7 @@
             {
               "node_type": "item",
               "title": "Publish Article to Dev.to",
-              "description": null,
+              "description": "tylerauerbeck/publish-to-dev.to-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7987,7 +7986,7 @@
             {
               "node_type": "item",
               "title": "Deploy with AWS CodeDeploy",
-              "description": null,
+              "description": "webfactory/create-aws-codedeploy-deployment",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8012,7 +8011,7 @@
             {
               "node_type": "item",
               "title": "Deploy Static Website to Azure Storage",
-              "description": null,
+              "description": "feeloor/azure-static-website-deploy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8041,7 +8040,7 @@
             {
               "node_type": "item",
               "title": "Publish npm (pre)releases",
-              "description": null,
+              "description": "esamattis/npm-release",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8064,7 +8063,7 @@
             {
               "node_type": "item",
               "title": "GitHub Action for Homebrew Tap",
-              "description": null,
+              "description": "izumin5210/action-homebrew-tap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8085,7 +8084,7 @@
             {
               "node_type": "item",
               "title": "Publish one or more JS modules to a registry",
-              "description": null,
+              "description": "author/action-publish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8106,7 +8105,7 @@
             {
               "node_type": "item",
               "title": "Publish a package with 2FA using Slack",
-              "description": null,
+              "description": "erezrokah/2fa-with-slack-action",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8127,7 +8126,7 @@
             {
               "node_type": "item",
               "title": "Publish module to Puppet Forge",
-              "description": null,
+              "description": "barnumbirr/action-forge-publish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8148,7 +8147,7 @@
             {
               "node_type": "item",
               "title": "GitHub Action for TencentCloud Serverless",
-              "description": null,
+              "description": "Juliiii/action-scf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8171,7 +8170,7 @@
                 {
                   "node_type": "item",
                   "title": "Update a Docker Hub repository description from README.md",
-                  "description": null,
+                  "description": "peter-evans/dockerhub-description",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8197,7 +8196,7 @@
                 {
                   "node_type": "item",
                   "title": "Build And Push Your Docker Images Caching Each Stage To Reduce Build Time",
-                  "description": null,
+                  "description": "whoan/docker-build-with-cache-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8227,7 +8226,7 @@
                 {
                   "node_type": "item",
                   "title": "Set up Docker Buildx",
-                  "description": null,
+                  "description": "crazy-max/ghaction-docker-buildx",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -8253,7 +8252,7 @@
                 {
                   "node_type": "item",
                   "title": "Monitor and limit your docker image size",
-                  "description": null,
+                  "description": "wemake-services/docker-image-size-limit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8283,7 +8282,7 @@
                 {
                   "node_type": "item",
                   "title": "Build and publish docker images to any registry using Kaniko",
-                  "description": null,
+                  "description": "aevea/action-kaniko",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8304,7 +8303,7 @@
                 {
                   "node_type": "item",
                   "title": "Publish Docker Images to the GitHub Package Registry (GPR)",
-                  "description": null,
+                  "description": "machine-learning-apps/gpr-docker-publish",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -8328,7 +8327,7 @@
                 {
                   "node_type": "item",
                   "title": "Publish Docker Images to the Amazon Elastic Container Registry (ECR)",
-                  "description": null,
+                  "description": "appleboy/docker-ecr-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8353,7 +8352,7 @@
                 {
                   "node_type": "item",
                   "title": "Convert Branch or Tag Name Into Docker-Compatible Image Tag",
-                  "description": null,
+                  "description": "ankitvgupta/ref-to-tag-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8381,7 +8380,7 @@
                 {
                   "node_type": "item",
                   "title": "Deploy to any Cloud or Kubernetes Using Pulumi",
-                  "description": null,
+                  "description": "pulumi/actions",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8390,7 +8389,7 @@
                     "id": 153361173,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-29T20:10:43Z",
+                    "last_commit": "2026-10-02T19:11:02Z",
                     "open_issues": 79,
                     "owner": "pulumi",
                     "repo": "actions",
@@ -8402,7 +8401,7 @@
                 {
                   "node_type": "item",
                   "title": "Deploy to Kubernetes with kubectl",
-                  "description": null,
+                  "description": "steebchen/kubectl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8431,7 +8430,7 @@
                 {
                   "node_type": "item",
                   "title": "Kustomize Kubernetes Config YAMLs",
-                  "description": null,
+                  "description": "karancode/kustomize-github-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8457,7 +8456,7 @@
                 {
                   "node_type": "item",
                   "title": "Get Kubeconfig File From Google Kubernetes Engine (GKE)",
-                  "description": null,
+                  "description": "machine-learning-apps/gke-kubeconfig",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -8478,7 +8477,7 @@
                 {
                   "node_type": "item",
                   "title": "Create a Kubernetes Cluster for Testing Using Krucible",
-                  "description": null,
+                  "description": "Krucible/krucible-github-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8506,7 +8505,7 @@
                 {
                   "node_type": "item",
                   "title": "Sync/upload a directory to an AWS S3 bucket",
-                  "description": null,
+                  "description": "jakejarvis/s3-sync-action",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -8535,7 +8534,7 @@
                 {
                   "node_type": "item",
                   "title": "Deploy Lambda code to an existing function",
-                  "description": null,
+                  "description": "appleboy/lambda-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8588,7 +8587,7 @@
                 {
                   "node_type": "item",
                   "title": "An example of using Terraform to validate and apply GitHub administration",
-                  "description": null,
+                  "description": "asgharlabs/github-terraform",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -8621,7 +8620,7 @@
             {
               "node_type": "item",
               "title": "GitHub Action for Firebase",
-              "description": null,
+              "description": "w9jds/firebase-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8634,7 +8633,7 @@
                 "open_issues": 41,
                 "owner": "w9jds",
                 "repo": "firebase-action",
-                "stars": 948,
+                "stars": 947,
                 "topics": [
                   "firebase",
                   "firebase-tools",
@@ -8646,7 +8645,7 @@
             {
               "node_type": "item",
               "title": "GitHub Action for Google Cloud Platform (GCP)",
-              "description": null,
+              "description": "actions-hub/gcloud",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8675,7 +8674,7 @@
             {
               "node_type": "item",
               "title": "Use a Jenkinsfile",
-              "description": null,
+              "description": "jenkinsci/jenkinsfile-runner-github-actions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8702,7 +8701,7 @@
             {
               "node_type": "item",
               "title": "Assume AWS role",
-              "description": null,
+              "description": "nordcloud/aws-assume-role",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8728,7 +8727,7 @@
             {
               "node_type": "item",
               "title": "GitHub Action for sending Stack Overflow posts to Slack",
-              "description": null,
+              "description": "JuliaLangSlack/StackOverflowBot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8758,7 +8757,7 @@
             {
               "node_type": "item",
               "title": "GitHub Action for Contentful Migration CLI",
-              "description": null,
+              "description": "contentful/contentful-action",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8779,7 +8778,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for Pixela (a-know/pi)",
-              "description": null,
+              "description": "peaceiris/actions-pixela",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8804,7 +8803,7 @@
             {
               "node_type": "item",
               "title": "Generate Custom Response using JSONbin",
-              "description": null,
+              "description": "fabasoad/jsonbin-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8832,7 +8831,7 @@
             {
               "node_type": "item",
               "title": "Upload files to any OpenStack Swift service provider",
-              "description": null,
+              "description": "iksaku/openstack-swift-action",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8860,7 +8859,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for Hugo extended",
-              "description": null,
+              "description": "peaceiris/actions-hugo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8885,7 +8884,7 @@
             {
               "node_type": "item",
               "title": "GitHub Actions for mdBook",
-              "description": null,
+              "description": "peaceiris/actions-mdbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8911,7 +8910,7 @@
             {
               "node_type": "item",
               "title": "Runs a WebPageTest audit and prints the results as commit comment",
-              "description": null,
+              "description": "JCofman/webPagetestAction",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8990,7 +8989,7 @@
             {
               "node_type": "item",
               "title": "GitHub Action for Gatsby CLI",
-              "description": null,
+              "description": "jzweifel/gatsby-cli-github-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9041,7 +9040,7 @@
             {
               "node_type": "item",
               "title": "Execute Gradle task",
-              "description": null,
+              "description": "OrangeLabsMoe/gradle-actions",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -9103,7 +9102,7 @@
             {
               "node_type": "item",
               "title": "Automatically Dockerize A Data-Science Repo As A Jupyter Server",
-              "description": null,
+              "description": "jupyterhub/repo2docker-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9134,7 +9133,7 @@
             {
               "node_type": "item",
               "title": "Azure Machine Learning With GitHub Actions",
-              "description": null,
+              "description": "machine-learning-apps/ml-template-azure",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -9163,7 +9162,7 @@
             {
               "node_type": "item",
               "title": "Run Parameterized Jupyter Notebooks",
-              "description": null,
+              "description": "yaananth/run-notebook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9184,7 +9183,7 @@
             {
               "node_type": "item",
               "title": "Query Experiment Tracking Results From Weights & Biases",
-              "description": null,
+              "description": "machine-learning-apps/wandb-action",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -9211,7 +9210,7 @@
             {
               "node_type": "item",
               "title": "Submitting Argo Workflows (Cloud Agnostic)",
-              "description": null,
+              "description": "machine-learning-apps/actions-argo",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -9232,7 +9231,7 @@
             {
               "node_type": "item",
               "title": "Compile, Deploy and Run Kubeflow Pipeline",
-              "description": null,
+              "description": "NikeNano/kubeflow-github-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9253,7 +9252,7 @@
             {
               "node_type": "item",
               "title": "Submitting Argo Workflows to GKE",
-              "description": null,
+              "description": "machine-learning-apps/gke-argo",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -9281,7 +9280,7 @@
             {
               "node_type": "item",
               "title": "Publish Go Binaries to GitHub Release Assets",
-              "description": null,
+              "description": "wangyoucao577/go-release-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9371,7 +9370,7 @@
             {
               "node_type": "item",
               "title": "Generate ~/.m2/settings.xml for Maven builds",
-              "description": null,
+              "description": "whelk-io/maven-settings-xml-action",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -9395,7 +9394,7 @@
             {
               "node_type": "item",
               "title": "Setup COBOL",
-              "description": null,
+              "description": "fabasoad/setup-cobol-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9421,7 +9420,7 @@
             {
               "node_type": "item",
               "title": "Run Pascal Script",
-              "description": null,
+              "description": "fabasoad/pascal-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9473,7 +9472,7 @@
             {
               "node_type": "item",
               "title": "Build Go applications for multiplatform",
-              "description": null,
+              "description": "izumin5210/action-go-crossbuild",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9594,7 +9593,7 @@
             {
               "node_type": "item",
               "title": "Find and automatically fix typos and grammar issues in your code",
-              "description": null,
+              "description": "sobolevn/misspell-fixer-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9698,7 +9697,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:38:38.680Z",
+    "last_updated": "2026-10-03T04:21:34.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome actions to use on GitHub",
@@ -9710,7 +9709,7 @@
       "open_issues": 328,
       "owner": "sdras",
       "repo": "awesome-actions",
-      "stars": 28279,
+      "stars": 28282,
       "topics": [
         "actions",
         "actions-list",
