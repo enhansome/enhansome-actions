@@ -24,7 +24,7 @@
                 "open_issues": 127,
                 "owner": "actions",
                 "repo": "runner-images",
-                "stars": 13416,
+                "stars": 13418,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:32.889Z"
@@ -67,10 +67,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-03T14:06:59Z",
-                "open_issues": 519,
+                "open_issues": 520,
                 "owner": "actions",
                 "repo": "starter-workflows",
-                "stars": 12127,
+                "stars": 12128,
                 "topics": [
                   "actions"
                 ]
@@ -165,7 +165,7 @@
                     "open_issues": 94,
                     "owner": "actions",
                     "repo": "github-script",
-                    "stars": 5032,
+                    "stars": 5034,
                     "topics": [
                       "actions",
                       "github-api",
@@ -423,7 +423,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-02T05:24:22Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "actions",
                     "repo": "setup-java",
                     "stars": 2015,
@@ -771,7 +771,7 @@
                 "open_issues": 385,
                 "owner": "nektos",
                 "repo": "act",
-                "stars": 72200,
+                "stars": 72202,
                 "topics": [
                   "ci",
                   "devops",
@@ -1277,8 +1277,8 @@
                 "id": 254954414,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T03:20:53Z",
-                "open_issues": 34,
+                "last_commit": "2026-10-03T09:36:46Z",
+                "open_issues": 33,
                 "owner": "cncf",
                 "repo": "prow-github-actions",
                 "stars": 129,
@@ -1763,7 +1763,7 @@
                 "id": 206578964,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T07:36:24Z",
+                "last_commit": "2026-10-03T11:04:52Z",
                 "open_issues": 11,
                 "owner": "shivammathur",
                 "repo": "setup-php",
@@ -1823,7 +1823,7 @@
                 "open_issues": 75,
                 "owner": "hashicorp",
                 "repo": "setup-terraform",
-                "stars": 1591,
+                "stars": 1592,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:32.889Z"
@@ -2023,7 +2023,7 @@
                 "id": 230956642,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T05:20:26Z",
+                "last_commit": "2026-10-03T07:27:36Z",
                 "open_issues": 5,
                 "owner": "clowdhaus",
                 "repo": "aws-github-actions",
@@ -2160,7 +2160,7 @@
                 "open_issues": 37,
                 "owner": "dorny",
                 "repo": "paths-filter",
-                "stars": 3349,
+                "stars": 3350,
                 "topics": [
                   "change-detection",
                   "ci-cd",
@@ -4138,8 +4138,8 @@
                     "id": 225025427,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-16T10:21:32Z",
-                    "open_issues": 23,
+                    "last_commit": "2026-10-03T08:44:31Z",
+                    "open_issues": 24,
                     "owner": "game-ci",
                     "repo": "unity-test-runner",
                     "stars": 267,
@@ -4387,8 +4387,8 @@
                     "id": 124593057,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T12:12:30Z",
-                    "open_issues": 18,
+                    "last_commit": "2026-10-03T05:41:43Z",
+                    "open_issues": 16,
                     "owner": "wemake-services",
                     "repo": "wemake-python-styleguide",
                     "stars": 2918,
@@ -6444,7 +6444,7 @@
                 "id": 187915200,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T06:09:13Z",
+                "last_commit": "2026-10-03T05:25:59Z",
                 "open_issues": 95,
                 "owner": "peaceiris",
                 "repo": "actions-gh-pages",
@@ -9697,7 +9697,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:21:34.264Z",
+    "last_updated": "2026-10-03T11:42:06.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome actions to use on GitHub",
@@ -9709,7 +9709,7 @@
       "open_issues": 328,
       "owner": "sdras",
       "repo": "awesome-actions",
-      "stars": 28282,
+      "stars": 28283,
       "topics": [
         "actions",
         "actions-list",
