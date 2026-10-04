@@ -21,10 +21,10 @@
                 "language": "PowerShell",
                 "license": "MIT",
                 "last_commit": "2026-10-02T13:42:48Z",
-                "open_issues": 127,
+                "open_issues": 129,
                 "owner": "actions",
                 "repo": "runner-images",
-                "stars": 13418,
+                "stars": 13425,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:32.889Z"
@@ -42,10 +42,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-02T13:53:49Z",
-                "open_issues": 542,
+                "open_issues": 543,
                 "owner": "actions",
                 "repo": "runner",
-                "stars": 6306,
+                "stars": 6307,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:32.889Z"
@@ -67,10 +67,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-03T14:06:59Z",
-                "open_issues": 520,
+                "open_issues": 515,
                 "owner": "actions",
                 "repo": "starter-workflows",
-                "stars": 12128,
+                "stars": 12129,
                 "topics": [
                   "actions"
                 ]
@@ -123,7 +123,7 @@
                     "open_issues": 705,
                     "owner": "actions",
                     "repo": "checkout",
-                    "stars": 8929,
+                    "stars": 8933,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -141,7 +141,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-07-15T18:13:46Z",
-                    "open_issues": 242,
+                    "open_issues": 241,
                     "owner": "actions",
                     "repo": "cache",
                     "stars": 5569,
@@ -190,7 +190,7 @@
                     "open_issues": 263,
                     "owner": "actions",
                     "repo": "upload-artifact",
-                    "stars": 4210,
+                    "stars": 4211,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -211,7 +211,7 @@
                     "open_issues": 155,
                     "owner": "actions",
                     "repo": "download-artifact",
-                    "stars": 1904,
+                    "stars": 1905,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -426,7 +426,7 @@
                     "open_issues": 1,
                     "owner": "actions",
                     "repo": "setup-java",
-                    "stars": 2015,
+                    "stars": 2016,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -592,10 +592,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-01T18:36:50Z",
-                    "open_issues": 581,
+                    "open_issues": 582,
                     "owner": "actions",
                     "repo": "toolkit",
-                    "stars": 5864,
+                    "stars": 5865,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -771,7 +771,7 @@
                 "open_issues": 385,
                 "owner": "nektos",
                 "repo": "act",
-                "stars": 72202,
+                "stars": 72211,
                 "topics": [
                   "ci",
                   "devops",
@@ -793,11 +793,11 @@
                 "id": 204253808,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T12:14:47Z",
-                "open_issues": 118,
+                "last_commit": "2026-10-03T22:42:55Z",
+                "open_issues": 119,
                 "owner": "softprops",
                 "repo": "action-gh-release",
-                "stars": 5766,
+                "stars": 5767,
                 "topics": [
                   "github-actions",
                   "github-releases"
@@ -1277,8 +1277,8 @@
                 "id": 254954414,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T09:36:46Z",
-                "open_issues": 33,
+                "last_commit": "2026-10-04T10:30:34Z",
+                "open_issues": 32,
                 "owner": "cncf",
                 "repo": "prow-github-actions",
                 "stars": 129,
@@ -1386,34 +1386,6 @@
             },
             {
               "node_type": "item",
-              "title": "Create/Update/Delete a GitHub Wiki Page Based on Any File",
-              "description": "Andrew-Chen-Wang/github-wiki-action",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "📖 GitHub Action to sync a folder to the GitHub wiki",
-                "homepage": null,
-                "id": 272779659,
-                "language": "TypeScript",
-                "license": "Apache-2.0",
-                "last_commit": "2026-07-11T16:28:14Z",
-                "open_issues": 1,
-                "owner": "Andrew-Chen-Wang",
-                "repo": "github-wiki-action",
-                "stars": 111,
-                "topics": [
-                  "actions",
-                  "bash",
-                  "github-action",
-                  "github-actions",
-                  "github-wiki",
-                  "wiki"
-                ]
-              },
-              "first_seen": "2026-08-28T18:44:32.889Z"
-            },
-            {
-              "node_type": "item",
               "title": "Create a GitHub wiki page based on the provided markdown file",
               "description": "Decathlon/wiki-page-creator-action",
               "children": [],
@@ -1431,6 +1403,34 @@
                 "stars": 110,
                 "topics": [
                   "github-actions",
+                  "wiki"
+                ]
+              },
+              "first_seen": "2026-08-28T18:44:32.889Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Create/Update/Delete a GitHub Wiki Page Based on Any File",
+              "description": "Andrew-Chen-Wang/github-wiki-action",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "📖 GitHub Action to sync a folder to the GitHub wiki",
+                "homepage": null,
+                "id": 272779659,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-07-11T16:28:14Z",
+                "open_issues": 1,
+                "owner": "Andrew-Chen-Wang",
+                "repo": "github-wiki-action",
+                "stars": 110,
+                "topics": [
+                  "actions",
+                  "bash",
+                  "github-action",
+                  "github-actions",
+                  "github-wiki",
                   "wiki"
                 ]
               },
@@ -2023,7 +2023,7 @@
                 "id": 230956642,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T07:27:36Z",
+                "last_commit": "2026-10-03T22:53:55Z",
                 "open_issues": 5,
                 "owner": "clowdhaus",
                 "repo": "aws-github-actions",
@@ -2157,7 +2157,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-27T22:03:36Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "dorny",
                 "repo": "paths-filter",
                 "stars": 3350,
@@ -3374,8 +3374,8 @@
                 "id": 248228678,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T01:26:32Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-04T03:21:11Z",
+                "open_issues": 0,
                 "owner": "fabasoad",
                 "repo": "twilio-voice-call-action",
                 "stars": 18,
@@ -4006,8 +4006,8 @@
                 "id": 157776824,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T13:33:42Z",
-                "open_issues": 133,
+                "last_commit": "2026-10-03T13:53:15Z",
+                "open_issues": 134,
                 "owner": "graphql-hive",
                 "repo": "graphql-inspector",
                 "stars": 1768,
@@ -4387,8 +4387,8 @@
                     "id": 124593057,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T05:41:43Z",
-                    "open_issues": 16,
+                    "last_commit": "2026-10-03T20:10:46Z",
+                    "open_issues": 15,
                     "owner": "wemake-services",
                     "repo": "wemake-python-styleguide",
                     "stars": 2918,
@@ -4524,8 +4524,8 @@
                     "id": 208542589,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T20:35:17Z",
-                    "open_issues": 16,
+                    "last_commit": "2026-10-04T12:22:10Z",
+                    "open_issues": 17,
                     "owner": "reviewdog",
                     "repo": "action-golangci-lint",
                     "stars": 243,
@@ -5213,8 +5213,8 @@
                     "id": 212117222,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T14:23:14Z",
-                    "open_issues": 48,
+                    "last_commit": "2026-10-03T19:09:49Z",
+                    "open_issues": 49,
                     "owner": "ridedott",
                     "repo": "merge-me-action",
                     "stars": 316,
@@ -5425,7 +5425,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-17T00:47:32Z",
-                    "open_issues": 75,
+                    "open_issues": 74,
                     "owner": "codecov",
                     "repo": "codecov-action",
                     "stars": 1711,
@@ -5675,7 +5675,7 @@
                 "open_issues": 20,
                 "owner": "jakejarvis",
                 "repo": "lighthouse-action",
-                "stars": 348,
+                "stars": 349,
                 "topics": [
                   "accessibility",
                   "actions",
@@ -6513,7 +6513,7 @@
                 "id": 205586305,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T16:03:32Z",
+                "last_commit": "2026-10-03T14:31:45Z",
                 "open_issues": 16,
                 "owner": "crazy-max",
                 "repo": "ghaction-github-pages",
@@ -6667,7 +6667,7 @@
                 "id": 209903968,
                 "language": "Svelte",
                 "license": null,
-                "last_commit": "2026-10-03T00:45:50Z",
+                "last_commit": "2026-10-04T00:08:25Z",
                 "open_issues": 2,
                 "owner": "cristianpb",
                 "repo": "analytics-google",
@@ -7210,7 +7210,7 @@
                 "open_issues": 32,
                 "owner": "appleboy",
                 "repo": "ssh-action",
-                "stars": 6217,
+                "stars": 6218,
                 "topics": [
                   "github-actions",
                   "ssh",
@@ -7235,7 +7235,7 @@
                 "open_issues": 149,
                 "owner": "SamKirkland",
                 "repo": "FTP-Deploy-Action",
-                "stars": 5238,
+                "stars": 5240,
                 "topics": [
                   "action",
                   "actions",
@@ -7405,7 +7405,7 @@
                 "id": 214454509,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T07:54:26Z",
+                "last_commit": "2026-10-04T02:40:20Z",
                 "open_issues": 2,
                 "owner": "TryGhost",
                 "repo": "action-deploy-theme",
@@ -9320,7 +9320,7 @@
                 "id": 226724438,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T17:50:09Z",
+                "last_commit": "2026-10-03T12:43:42Z",
                 "open_issues": 25,
                 "owner": "lukka",
                 "repo": "run-vcpkg",
@@ -9634,7 +9634,7 @@
                 "open_issues": 0,
                 "owner": "fabasoad",
                 "repo": "translation-action",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "deepl-translator",
                   "funtranslation-api",
@@ -9697,7 +9697,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T11:42:06.649Z",
+    "last_updated": "2026-10-04T12:24:20.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome actions to use on GitHub",
@@ -9706,10 +9706,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-09-01T20:32:39Z",
-      "open_issues": 328,
+      "open_issues": 327,
       "owner": "sdras",
       "repo": "awesome-actions",
-      "stars": 28283,
+      "stars": 28285,
       "topics": [
         "actions",
         "actions-list",
