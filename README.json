@@ -20,11 +20,11 @@
                 "id": 190416463,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-06T10:04:00Z",
-                "open_issues": 137,
+                "last_commit": "2026-10-06T12:39:16Z",
+                "open_issues": 140,
                 "owner": "actions",
                 "repo": "runner-images",
-                "stars": 13433,
+                "stars": 13434,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:32.889Z"
@@ -42,7 +42,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-06T07:06:30Z",
-                "open_issues": 540,
+                "open_issues": 541,
                 "owner": "actions",
                 "repo": "runner",
                 "stars": 6311,
@@ -70,7 +70,7 @@
                 "open_issues": 516,
                 "owner": "actions",
                 "repo": "starter-workflows",
-                "stars": 12135,
+                "stars": 12136,
                 "topics": [
                   "actions"
                 ]
@@ -123,7 +123,7 @@
                     "open_issues": 705,
                     "owner": "actions",
                     "repo": "checkout",
-                    "stars": 8935,
+                    "stars": 8936,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -144,7 +144,7 @@
                     "open_issues": 242,
                     "owner": "actions",
                     "repo": "cache",
-                    "stars": 5569,
+                    "stars": 5570,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -186,11 +186,11 @@
                     "id": 192625955,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-04-14T14:19:32Z",
-                    "open_issues": 263,
+                    "last_commit": "2026-10-06T12:56:52Z",
+                    "open_issues": 264,
                     "owner": "actions",
                     "repo": "upload-artifact",
-                    "stars": 4213,
+                    "stars": 4214,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -208,10 +208,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-03-18T12:43:40Z",
-                    "open_issues": 156,
+                    "open_issues": 157,
                     "owner": "actions",
                     "repo": "download-artifact",
-                    "stars": 1905,
+                    "stars": 1906,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -239,7 +239,7 @@
                     "open_issues": 71,
                     "owner": "actions",
                     "repo": "labeler",
-                    "stars": 2501,
+                    "stars": 2502,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -356,7 +356,7 @@
                     "open_issues": 61,
                     "owner": "actions",
                     "repo": "delete-package-versions",
-                    "stars": 444,
+                    "stars": 445,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -384,7 +384,7 @@
                     "open_issues": 76,
                     "owner": "actions",
                     "repo": "setup-node",
-                    "stars": 4980,
+                    "stars": 4981,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -591,11 +591,11 @@
                     "id": 182299236,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-06T09:59:08Z",
+                    "last_commit": "2026-10-06T12:24:47Z",
                     "open_issues": 583,
                     "owner": "actions",
                     "repo": "toolkit",
-                    "stars": 5863,
+                    "stars": 5864,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:32.889Z"
@@ -616,7 +616,7 @@
                     "open_issues": 22,
                     "owner": "actions",
                     "repo": "typescript-action",
-                    "stars": 2412,
+                    "stars": 2413,
                     "topics": [
                       "github-actions",
                       "template",
@@ -768,10 +768,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-08-09T22:50:11Z",
-                "open_issues": 387,
+                "open_issues": 388,
                 "owner": "nektos",
                 "repo": "act",
-                "stars": 72224,
+                "stars": 72226,
                 "topics": [
                   "ci",
                   "devops",
@@ -797,7 +797,7 @@
                 "open_issues": 120,
                 "owner": "softprops",
                 "repo": "action-gh-release",
-                "stars": 5768,
+                "stars": 5769,
                 "topics": [
                   "github-actions",
                   "github-releases"
@@ -1230,7 +1230,7 @@
                 "id": 250708774,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T13:02:43Z",
+                "last_commit": "2026-10-06T13:02:49Z",
                 "open_issues": 6,
                 "owner": "metcalfc",
                 "repo": "changelog-generator",
@@ -1277,8 +1277,8 @@
                 "id": 254954414,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T08:22:57Z",
-                "open_issues": 77,
+                "last_commit": "2026-10-06T12:35:24Z",
+                "open_issues": 81,
                 "owner": "cncf",
                 "repo": "prow-github-actions",
                 "stars": 132,
@@ -1608,8 +1608,8 @@
                 "id": 261011663,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-06T06:52:48Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-06T13:14:45Z",
+                "open_issues": 0,
                 "owner": "rlespinasse",
                 "repo": "git-commit-data-action",
                 "stars": 41,
@@ -2341,7 +2341,7 @@
                 "open_issues": 7,
                 "owner": "technote-space",
                 "repo": "toc-generator",
-                "stars": 247,
+                "stars": 248,
                 "topics": [
                   "github-actions",
                   "toc"
@@ -4006,11 +4006,11 @@
                 "id": 157776824,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T13:53:15Z",
-                "open_issues": 134,
+                "last_commit": "2026-10-06T10:31:47Z",
+                "open_issues": 135,
                 "owner": "graphql-hive",
                 "repo": "graphql-inspector",
-                "stars": 1767,
+                "stars": 1768,
                 "topics": [
                   "api",
                   "graphql",
@@ -4085,8 +4085,8 @@
                 "id": 234341789,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-06T08:22:16Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-06T11:08:10Z",
+                "open_issues": 6,
                 "owner": "reviewdog",
                 "repo": "action-tfsec",
                 "stars": 76,
@@ -4597,8 +4597,8 @@
                     "id": 211132408,
                     "language": "Shell",
                     "license": "MIT",
-                    "last_commit": "2026-10-06T08:25:00Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-06T13:07:23Z",
+                    "open_issues": 5,
                     "owner": "reviewdog",
                     "repo": "action-tflint",
                     "stars": 119,
@@ -5763,7 +5763,7 @@
                 "open_issues": 24,
                 "owner": "peter-evans",
                 "repo": "create-pull-request",
-                "stars": 2852,
+                "stars": 2853,
                 "topics": [
                   "actions-workspace",
                   "automation",
@@ -5817,7 +5817,7 @@
                 "open_issues": 41,
                 "owner": "anothrNick",
                 "repo": "github-tag-action",
-                "stars": 879,
+                "stars": 880,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -6517,7 +6517,7 @@
                 "open_issues": 16,
                 "owner": "crazy-max",
                 "repo": "ghaction-github-pages",
-                "stars": 519,
+                "stars": 520,
                 "topics": [
                   "actions",
                   "deployment",
@@ -8389,7 +8389,7 @@
                     "id": 153361173,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T06:32:34Z",
+                    "last_commit": "2026-10-06T13:13:14Z",
                     "open_issues": 80,
                     "owner": "pulumi",
                     "repo": "actions",
@@ -8897,7 +8897,7 @@
                 "open_issues": 23,
                 "owner": "peaceiris",
                 "repo": "actions-mdbook",
-                "stars": 326,
+                "stars": 327,
                 "topics": [
                   "actions",
                   "github-actions",
@@ -9697,7 +9697,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:16:24.610Z",
+    "last_updated": "2026-10-06T13:20:53.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome actions to use on GitHub",
@@ -9709,7 +9709,7 @@
       "open_issues": 322,
       "owner": "sdras",
       "repo": "awesome-actions",
-      "stars": 28292,
+      "stars": 28293,
       "topics": [
         "actions",
         "actions-list",
